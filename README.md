@@ -1,6 +1,6 @@
 # Eloquent_JavaScript_2th
 
-![Eloquent JavaScript](http://eloquentjavascript.net/img/cover.png)
+![Eloquent JavaScript](./Figure/cover.png)
 
 **《Eloquent JavaScript(2th)》中译版**
 - 作者：Marijn Haverbeke
