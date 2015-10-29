@@ -1,501 +1,550 @@
-<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><title>#Êı¾İ½á¹¹£º¶ÔÏóÓëÊı×é &#62;&#8220;Ôø¾­ÓĞÁ½´ÎÎÒ±»ÎÊµ½ÒÔÏÂÕâ¸öÎÊÌâ£º&#8216;×ğ¾´µÄ°Í±´ÆæÏÈÉú£¬Èç¹û½«´íÎóµÄÊı¾İÊäÈë»úÆ÷£¬ÄÜ·ñÄÜ¹»µÃµ½ÕıÈ·´ğ°¸ÄØ£¿&#8217;[...]ÎÒ²¢²»ÄÜºÜºÃµÄÀí½âÎªÊ²Ã´ÓĞµÄÈË»áÓĞÈç´Ë»ìÏıµÄÏë·¨£¬ÒÔÖÁÓÚ²úÉúÕâÑùµÄÒÉÎÊ¡£&#8221; &#62;---²é¶ûË¹.°Í±´Ææ£¬·¢±íÓÚ¡¶ÕÜÑ§</title><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 °õ</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="9"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index 9" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="39"  SemiHidden="false"  Name="toc 9" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Indent" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="footnote text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  Name="header" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  Name="footer" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="index heading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="35"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="table of figures" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="envelope address" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="envelope return" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="footnote reference" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation reference" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="line number" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="page number" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="endnote reference" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="endnote text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="table of authorities" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="macro" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="toa heading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Bullet 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Number 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="10"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Closing" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Signature" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  Name="Default Paragraph Font" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Continue 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Message Header" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="11"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Salutation" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Date" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text First Indent" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text First Indent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Note Heading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Body Text Indent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Block Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Hyperlink" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="FollowedHyperlink" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="22"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="20"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Document Map" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Plain Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="E-mail Signature" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal (Web)" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Acronym" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Address" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Cite" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Code" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Definition" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Keyboard" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Preformatted" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Sample" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Typewriter" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="HTML Variable" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="annotation subject" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 7" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 8" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Contemporary" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Elegant" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Professional" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Balloon Text" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Theme" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 6" ></w:LsdException>
-<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
-</w:LatentStyles></xml><![endif]--><style>
-@font-face{
-font-family:"Times New Roman";
-}
+#æ•°æ®ç»“æ„ï¼šå¯¹è±¡ä¸æ•°ç»„
 
-@font-face{
-font-family:"ËÎÌå";
-}
+>â€œæ›¾ç»æœ‰ä¸¤æ¬¡æˆ‘è¢«é—®åˆ°ä»¥ä¸‹è¿™ä¸ªé—®é¢˜ï¼šâ€˜å°Šæ•¬çš„å·´è´å¥‡å…ˆç”Ÿï¼Œå¦‚æœå°†é”™è¯¯çš„æ•°æ®è¾“å…¥æœºå™¨ï¼Œèƒ½å¦èƒ½å¤Ÿå¾—åˆ°æ­£ç¡®ç­”æ¡ˆå‘¢ï¼Ÿâ€™[...]æˆ‘å¹¶ä¸èƒ½å¾ˆå¥½çš„ç†è§£ä¸ºä»€ä¹ˆæœ‰çš„äººä¼šæœ‰å¦‚æ­¤æ··æ·†çš„æƒ³æ³•ï¼Œä»¥è‡³äºäº§ç”Ÿè¿™æ ·çš„ç–‘é—®ã€‚â€
+>---æŸ¥å°”æ–¯.å·´è´å¥‡ï¼Œå‘è¡¨äºã€Šå“²å­¦å®¶çš„ç”Ÿæ´»ã€‹ï¼ˆ1864ï¼‰
 
-@font-face{
-font-family:"Wingdings";
-}
+æ•°å­—ã€å¸ƒå°”å€¼ä»¥åŠå­—ç¬¦ä¸²å°±å¥½æ¯”æ˜¯æ•°æ®ç»“æ„æ„æˆçš„ä¸€å—å—ç –ã€‚ä½†æ˜¯åªç”¨ä¸€å—ç –å¹¶ä¸èƒ½é€ å‡ºå¤šå¤§çš„æˆ¿å­ã€‚å¯¹è±¡å¯ä»¥å°†å¤šä¸ªå€¼åˆ†ç»„åŒ–--åŒ…æ‹¬å…¶ä»–å¯¹è±¡--ä»è€Œæ„é€ æ›´å¤šå¤æ‚çš„ç»“æ„ã€‚
 
-@list l0:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:39.0000pt;
-mso-level-number-position:left;
-margin-left:39.0000pt; text-indent:-18.0000pt; font-family:'Times New Roman'; }
+åˆ°ç›®å‰ä¸ºæ­¢ï¼Œæˆ‘ä»¬æ‰€ç¼–å†™çš„ç¨‹åºéƒ½è¢«ä¸¥é‡çš„æŸç¼šç€--å®ƒä»¬éƒ½ä»…ä»…ä½¿ç”¨ç®€å•çš„æ•°æ®ç±»å‹ã€‚æœ¬ç« å°†è·Ÿä½ ä¸€èµ·æ¥å­¦ä¹ æ•°æ®ç»“æ„çš„åŸºæœ¬ç”¨æ³•ã€‚ç›¸ä¿¡å­¦ä¹ å®Œæœ¬ç« ï¼Œä½ å°†èƒ½å¤Ÿå†™å‡ºä¸€äº›æ›´åŠ æœ‰ç”¨çš„ç¨‹åºã€‚
 
-@list l1:level1{
-mso-level-number-format:bullet;
-mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:81.0000pt;
-mso-level-number-position:left;
-margin-left:81.0000pt; text-indent:-18.0000pt; font-family:Wingdings; }
+æœ¬ç« å°†é€šè¿‡ä¸€äº›ç¼–ç¨‹å®ä¾‹ï¼Œä»‹ç»ä¸€äº›å¯ä»¥è§£å†³èº«è¾¹å®é™…é—®é¢˜çš„æ¦‚å¿µã€‚å®ä¾‹ä»£ç ä¼šæ¶‰åŠåˆ°å‡½æ•°ä»¥åŠå˜é‡ï¼Œè¿™äº›å†…å®¹åœ¨ä¹‹å‰çš„ç« èŠ‚ä¸­å·²æœ‰ä»‹ç»ã€‚
 
-@list l2:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:18.0000pt;
-mso-level-number-position:left;
-margin-left:18.0000pt; text-indent:-18.0000pt; font-family:'Times New Roman'; }
+##æ¾é¼ äºº
 
-@list l3:level1{
-mso-level-number-format:bullet;
-mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:18.0000pt;
-mso-level-number-position:left;
-margin-left:18.0000pt; text-indent:-18.0000pt; font-family:Wingdings; }
+é›…å…‹å‘ç°ï¼Œä¸€èˆ¬åœ¨æ™šä¸Šå…«ç‚¹åˆ°åç‚¹ä¹‹é—´ï¼Œä»–å¸¸ä¼šå˜æˆä¸€ä¸ªå°å°çš„ï¼Œæ¯›èŒ¸èŒ¸çš„ï¼Œæœ‰ç€å¤§å¤§çš„å°¾å·´çš„å•®é½¿ç±»åŠ¨ç‰©ã€‚
 
-@list l4:level1{
-mso-level-number-format:bullet;
-mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:60.0000pt;
-mso-level-number-position:left;
-margin-left:60.0000pt; text-indent:-18.0000pt; font-family:Wingdings; }
+ä¸€æ–¹é¢ï¼Œé›…å…‹å¾ˆåº†å¹¸è‡ªå·±ä¸æ˜¯ä¼ è¯´ä¸­çš„å˜èº«ä¸ºç‹¼äººã€‚è€Œæ˜¯å˜æˆä¸€ä¸ªæ¾é¼ ï¼Œè¿™å¸¦æ¥çš„éº»çƒ¦ä¼¼ä¹æ¯”å˜æˆä¸€åªç‹¼è¦å°å¾—å¤šã€‚å˜æˆæ¾é¼ çš„ä»–ä¸ç”¨æ‹…å¿ƒä¼šå‘ç”Ÿæ„å¤–åƒæ‰è‡ªå·±çš„é‚»å±…ï¼ˆé‚£å®åœ¨å¤ªå¯æ€•äº†ï¼‰ï¼Œåªä¸è¿‡éœ€è¦æ‹…å¿ƒè‡ªå·±ä¼šè¢«é‚»å±…å®¶çš„çŒ«ç»™åƒæ‰ã€‚æ—©ä¸Šé†’æ¥çš„æ—¶å€™ï¼Œä»–ä¼šå‘ç°è‡ªå·±åœ¨ä¸€é¢—æ©¡æ ‘é¡¶éƒ¨éå¸¸å±é™©ç»†å¼±çš„æ ‘æä¸Šï¼Œå¹¶ä¸”æµ‘èº«èµ¤è£¸ï¼Œæ‰¾ä¸ç€æ–¹å‘ã€‚åœ¨å‘ç”Ÿäº†ä¸¤æ¬¡è¿™æ ·çš„æƒ…å†µä¹‹åï¼Œæ™šä¸Šçš„æ—¶å€™ä»–ä¸å¾—ä¸é”ç´§æˆ¿é—´çš„é—¨çª—ï¼Œå¹¶ä¸”æ”¾ä¸€äº›æ¾æœåœ¨åœ°æ¿ä¸Šï¼Œä»è€Œä½¿å˜æˆæ¾é¼ çš„è‡ªå·±èƒ½å¤Ÿå¿™èµ·æ¥ï¼Œè€Œä¸è‡³äºè·‘å‡ºå®¶å»ã€‚
 
-@list l5:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:60.0000pt;
-mso-level-number-position:left;
-margin-left:60.0000pt; text-indent:-18.0000pt; font-family:'Times New Roman'; }
+![æ¾é¼ äºº](Figure/chapter4/4_1.png)
 
-@list l6:level1{
-mso-level-number-format:bullet;
-mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:39.0000pt;
-mso-level-number-position:left;
-margin-left:39.0000pt; text-indent:-18.0000pt; font-family:Wingdings; }
+è¿™æ ·åšèƒ½å¤Ÿä½¿ä»–è‡ªå·±å…å—çŒ«å’Œæ©¡æ ‘é—®é¢˜çš„çƒ¦æ‰°ã€‚ä½†æ˜¯é›…å…‹ä»å—è¿™ä¸€æƒ…å†µçš„å›°æ‰°ã€‚å˜èº«å‘ç”Ÿçš„ä¸è§„å¾‹æ€§ä½¿å¾—ä»–æ€€ç–‘å˜èº«æ˜¯å› ä¸ºæŸäº›äº‹æƒ…æ‰€è§¦å‘çš„ã€‚ä¸€å¼€å§‹ï¼Œä»–æ·±ä¿¡å¦‚æœæŸå¤©ä»–æ›¾ç»ç¢°åˆ°æ ‘ï¼Œå°±ä¼šå˜æˆæ¾é¼ ã€‚äºæ˜¯ä»–ç»ä¸è§¦ç¢°æ ‘æœ¨ç”šè‡³é¿å…é è¿‘æ ‘æœ¨ã€‚ä½†æ˜¯è¿™ä¸€é—®é¢˜ä¾ç„¶å­˜åœ¨ã€‚
 
-@list l7:level1{
-mso-level-number-format:bullet;
-mso-level-suffix:tab;
-mso-level-text:\F06C;
-mso-level-tab-stop:102.0000pt;
-mso-level-number-position:left;
-margin-left:102.0000pt; text-indent:-18.0000pt; font-family:Wingdings; }
+ä¸ºäº†æ‰¾åˆ°å˜æˆæ¾é¼ çš„åŸå› ï¼Œé›…å…‹è½¬è€Œé‡‡ç”¨äº†ä¸€ä¸ªæ›´ç§‘å­¦çš„æ–¹æ³•ï¼Œä»–æ‰“ç®—å¼€å§‹æŠŠæ¯å¤©æ‰€åšçš„äº‹æƒ…è®°å½•ä¸‹æ¥å¹¶è®°å½•å½“å¤©æ˜¯å¦å˜èº«ã€‚é€šè¿‡è®°å½•ä¸‹æ¥çš„æ•°æ®ï¼Œä»–å¸Œæœ›èƒ½å¤Ÿç¼©å°è§¦å‘å˜èº«çš„æ¡ä»¶çš„èŒƒå›´ã€‚
 
-@list l8:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:81.0000pt;
-mso-level-number-position:left;
-margin-left:81.0000pt; text-indent:-18.0000pt; font-family:'Times New Roman'; }
+ä»–é¦–å…ˆåšçš„äº‹æƒ…å°±æ˜¯è®¾è®¡ä¸€ä¸ªæ•°æ®ç»“æ„å»å­˜å‚¨è¿™ä¸€ä¿¡æ¯ã€‚
 
-@list l9:level1{
-mso-level-number-format:decimal;
-mso-level-suffix:tab;
-mso-level-text:"%1.";
-mso-level-tab-stop:102.0000pt;
-mso-level-number-position:left;
-margin-left:102.0000pt; text-indent:-18.0000pt; font-family:'Times New Roman'; }
+##æ•°æ®é›†åˆ
 
-p.MsoNormal{
-mso-style-name:ÕıÎÄ;
-mso-style-parent:"";
-margin:0pt;
-margin-bottom:.0001pt;
-text-align:left;
-font-family:ËÎÌå;
-font-size:12.0000pt;
-}
+ä¸ºäº†å¤„ç†ä¸€å¤§å †æ•°æ®ï¼Œæˆ‘ä»¬é¦–å…ˆå¿…é¡»å¾—æ‰¾åˆ°ä¸€ç§åœ¨è®¡ç®—æœºå†…å­˜ä¸­æè¿°æ•°æ®çš„æ–¹æ³•ã€‚æ¯”å¦‚ï¼Œä¸¾ä¸ªç®€å•çš„ä¾‹å­ï¼Œæˆ‘ä»¬æƒ³è¦æè¿°ä¸€ä¸ªæ•°å€¼é›†åˆï¼š2,3,5,7,11ã€‚
 
-h1{
-mso-style-name:"±êÌâ 1";
-mso-style-next:ÕıÎÄ;
-margin-top:5.0000pt;
-margin-bottom:5.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:ËÎÌå;
-font-weight:bold;
-font-size:24.0000pt;
-mso-font-kerning:22.0000pt;
-}
+æˆ‘ä»¬å¯ä»¥ä½¿ç”¨ç‰¹å®šçš„å­—ç¬¦ä¸²â€”â€”æ¯•ç«Ÿï¼Œå­—ç¬¦ä¸²å¯ä»¥æ˜¯ä»»æ„é•¿åº¦ï¼Œæ‰€ä»¥æˆ‘ä»¬å¯ä»¥å‘å­—ç¬¦ä¸²ä¸­å­˜å…¥å¾ˆå¤šæ•°æ®â€”â€”å¦‚ä½¿ç”¨å­—ç¬¦ä¸²`"2 3 5 7 11"`æ¥æè¿°ã€‚ä½†æ˜¯è¿™æ ·åšæ˜¯å¾ˆç³Ÿç³•çš„ã€‚ä½ å°†å¿…é¡»ä»¥æŸç§ç‰¹å®šçš„æ–¹æ³•è·å–æ•°å€¼ï¼Œå°†å®ƒä»¬é‡æ–°è½¬æ¢å›æ•°å€¼ï¼Œæ‰èƒ½è¿›è¡Œå­˜å–ã€‚
 
-h2{
-mso-style-name:"±êÌâ 2";
-mso-style-noshow:yes;
-mso-style-next:ÕıÎÄ;
-margin-top:5.0000pt;
-margin-bottom:5.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:ËÎÌå;
-font-weight:bold;
-font-size:18.0000pt;
-}
+å€¼å¾—åº†å¹¸çš„æ˜¯ï¼Œ`Javascript`æä¾›äº†ä¸€ç§æ•°æ®ç±»å‹ç”¨æ¥ä¸“é—¨å­˜å‚¨æœ‰åºçš„å€¼ã€‚è¿™ç§æ•°æ®ç±»å‹å«åš`æ•°ç»„(Array)`ï¼Œå®ƒçš„å†™æ³•æ˜¯åœ¨ä¸€å¯¹æ–¹æ‹¬å·ä¸­å°†ä¸€ç³»åˆ—çš„å€¼ç”¨é€—å·éš”å¼€ã€‚
 
-h3{
-mso-style-name:"±êÌâ 3";
-mso-style-noshow:yes;
-mso-style-next:ÕıÎÄ;
-margin-top:5.0000pt;
-margin-bottom:5.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:ËÎÌå;
-font-weight:bold;
-font-size:13.5000pt;
-}
+	var listOfNumbers = [2, 3, 5, 7, 11];
+	console.log(listOfNumbers[1]);
+	// â†’ 3
+	console.log(listOfNumbers[1 - 1]);
+	// â†’ 2
 
-h4{
-mso-style-name:"±êÌâ 4";
-mso-style-noshow:yes;
-mso-style-next:ÕıÎÄ;
-margin-top:5.0000pt;
-margin-bottom:5.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:ËÎÌå;
-font-weight:bold;
-font-size:12.0000pt;
-}
+è·å–æ•°ç»„ä¸­çš„å…ƒç´ ä¾ç„¶ä½¿ç”¨æ–¹æ‹¬å·æ ‡è®°æ³•ã€‚æ–¹æ‹¬å·ç›´æ¥æ¥åœ¨è¡¨è¾¾å¼åé¢ï¼Œæ–¹æ‹¬å·ä¸­æ˜¯å¦ä¸€ä¸ªè¡¨è¾¾å¼ã€‚è¿™ç§å†™æ³•èƒ½å¤Ÿè¯»å–å·¦ä¾§è¡¨è¾¾å¼ä¸­ï¼Œä¸æ–¹æ‹¬å·å†…è¡¨è¾¾å¼æŒ‡å‘çš„ç´¢å¼•å¯¹åº”çš„å…ƒç´ ã€‚
 
-h5{
-mso-style-name:"±êÌâ 5";
-mso-style-noshow:yes;
-mso-style-next:ÕıÎÄ;
-margin-top:5.0000pt;
-margin-bottom:5.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:ËÎÌå;
-font-weight:bold;
-font-size:10.0000pt;
-}
+æ•°ç»„ä¸­çš„ç¬¬ä¸€ä¸ªç´¢å¼•ä¸º0ï¼Œä¸æ˜¯1ã€‚æ‰€ä»¥ç¬¬ä¸€ä¸ªå…ƒç´ å¯ä»¥ä½¿ç”¨ä¸€ä¸‹æ–¹æ³•è¯»å–ï¼š`listOfNumbers[0]`ã€‚å¦‚æœä½ å¹¶æ²¡æœ‰ç¼–ç¨‹èƒŒæ™¯ï¼Œè¿™ä¸€çº¦å®šå¯èƒ½éœ€è¦ä¸€äº›æ—¶é—´æ¥é€‚åº”ä¸€ä¸‹ã€‚ä»0å¼€å§‹è®¡æ•°åœ¨æŠ€æœ¯é¢†åŸŸæœ‰ç€å¾ˆé•¿ä¸€æ®µæ—¶é—´çš„å†å²ï¼Œåªè¦`JavaScript`ä¸­çš„è¿™ä¸€çº¦å®šæ»¡è¶³ä»0è®¡æ•°ï¼Œå°±æ˜¯æœ‰æ•ˆçš„ã€‚
 
-h6{
-mso-style-name:"±êÌâ 6";
-mso-style-noshow:yes;
-mso-style-next:ÕıÎÄ;
-margin-top:5.0000pt;
-margin-bottom:5.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:ËÎÌå;
-font-weight:bold;
-font-size:7.5000pt;
-}
+##å±æ€§
 
-span.10{
-font-family:'Times New Roman';
-}
+åœ¨ä¹‹å‰çš„ä¾‹å­ä¸­ï¼Œæˆ‘ä»¬æœ‰è§åˆ°ä¸€äº›å¥‡æ€ªé™Œç”Ÿçš„è¡¨è¾¾å¼ï¼Œæ¯”å¦‚`myString.length`(è·å–ä¸€ä¸ªå­—ç¬¦ä¸²çš„é•¿åº¦)å’Œ`Math.max`(æ±‚æœ€å¤§å€¼å‡½æ•°)ã€‚è¿™äº›è¡¨è¾¾å¼æ˜¯ç”¨æ¥è¯»å–æŸäº›å€¼çš„ä¸€ä¸ªå±æ€§å€¼ï¼ˆ`property`)ã€‚ç¬¬ä¸€ç§æƒ…å†µæ˜¯è¯»å–`myString`ä¸­çš„`length`å±æ€§çš„å€¼ã€‚ç¬¬äºŒç§æƒ…å†µæ˜¯è·å–`Math`(`Math`å¯¹è±¡ä¸­åŒ…å«ä¸€äº›æ•°å­¦ç›¸å…³çš„å€¼å’Œå‡½æ•°)å¯¹è±¡ä¸­åä¸º`max`çš„å±æ€§ã€‚
 
-p.p{
-mso-style-name:"ÆÕÍ¨\(ÍøÕ¾\)";
-mso-style-noshow:yes;
-margin-top:5.0000pt;
-margin-right:0.0000pt;
-margin-bottom:5.0000pt;
-margin-left:0.0000pt;
-mso-margin-top-alt:auto;
-mso-margin-bottom-alt:auto;
-text-align:left;
-font-family:ËÎÌå;
-font-size:12.0000pt;
-}
+å‡ ä¹æ‰€æœ‰`Javascript`ä¸­çš„å€¼éƒ½æœ‰å±æ€§ï¼Œé™¤äº†`null`å’Œ`undifined`ä¹‹å¤–ã€‚å¦‚æœè¯•å›¾è®¿é—®å®ƒä»¬ä¸­çš„ä¸€ä¸ªçš„å±æ€§ï¼Œå°†ä¼šæŠ¥é”™ã€‚
 
-p.pre{
-mso-style-name:"HTML Ô¤Éè¸ñÊ½";
-mso-style-noshow:yes;
-margin:0pt;
-margin-bottom:.0001pt;
-text-align:left;
-font-family:ËÎÌå;
-font-size:12.0000pt;
-}
+	null.length;
+	// â†’ TypeError: Cannot read property 'length' of null
 
-span.msoIns{
-mso-style-type:export-only;
-mso-style-name:"";
-text-decoration:underline;
-text-underline:single;
-color:blue;
-}
+åœ¨`Javascript`ä¸­æœ‰ä¸¤ç§å¸¸ç”¨çš„æ–¹æ³•æ¥è®¿é—®å±æ€§ï¼Œä½¿ç”¨ç‚¹(`.`)æˆ–æ–¹æ‹¬å·(`[]`)ã€‚`value.x`å’Œ`value[x]`éƒ½å¯ä»¥è®¿é—®`value`çš„ä¸€ä¸ªå±æ€§ã€‚ä½†æ˜¯å¹¶ä¸å®šæ˜¯åŒä¸€ä¸ªå±æ€§ã€‚ä¸åŒä¹‹å¤„åœ¨äº`x`ä½œä½•è§£é‡Šã€‚å½“ä½¿ç”¨ç‚¹è®¿é—®å±æ€§æ—¶ï¼Œç´§è·Ÿåœ¨ç‚¹åé¢çš„éƒ¨åˆ†å¿…é¡»æ˜¯ä¸€ä¸ªåˆæ³•çš„å˜é‡åï¼Œå®ƒç›´æ¥è¡¨ç¤ºå±æ€§çš„åå­—ã€‚å½“ä½¿ç”¨æ–¹æ‹¬å·è®¿é—®å±æ€§æ—¶ï¼Œæ–¹æ‹¬å·ä¸­çš„è¡¨è¾¾å¼çš„è®¡ç®—å€¼ç­‰äºå±æ€§çš„åå­—ã€‚é‰´äºæ­¤ï¼Œ`value.x`è·å–çš„æ˜¯`value`ä¸­åä¸ºâ€œxâ€çš„å±æ€§å€¼ï¼Œ`value[x]`å…ˆè®¡ç®—è¡¨è¾¾å¼xçš„å€¼ï¼Œå†å°†è®¡ç®—ç»“æœä½œä¸ºå±æ€§åã€‚
 
-span.msoDel{
-mso-style-type:export-only;
-mso-style-name:"";
-text-decoration:line-through;
-color:red;
-}
+æ‰€ä»¥ä½ çŸ¥é“ä½ æƒ³è¦è·å–çš„å±æ€§åå«åšâ€œ`length`â€ï¼Œä½ å¯ä»¥ä½¿ç”¨`value.length`ã€‚å¦‚æœä½ æƒ³è¦è·å–åå­—å­˜å‚¨åœ¨å˜é‡`i`ä¸­çš„å±æ€§çš„å€¼ï¼Œä½ å¯ä»¥ä½¿ç”¨`value[i]`ã€‚å¦å¤–ï¼Œç”±äºå±æ€§åå¯ä»¥ä¸ºä»»æ„å­—ç¬¦ä¸²ï¼Œå¦‚æœä½ æƒ³è®¿é—®åä¸ºâ€œ`2`â€æˆ–â€œ`John Doe`â€çš„å±æ€§ï¼Œä½ å¿…é¡»ä½¿ç”¨æ–¹æ‹¬å·ï¼š`value[2]`æˆ–`value["John Doe"]`ã€‚è¿™ç§æƒ…å†µå³ä½¿äº‹å…ˆçŸ¥é“ç²¾ç¡®çš„å±æ€§åï¼Œä¹Ÿä¾ç„¶è¦ä½¿ç”¨æ–¹æ‹¬å·æ¥è®¿é—®ã€‚å› ä¸ºä¸ç®¡â€œ`2`â€è¿˜æ˜¯â€œ`John Doe`â€éƒ½ä¸æ˜¯ä¸€ä¸ªåˆæ³•çš„å˜é‡åï¼Œå› æ­¤ä¸å¯ä»¥ä½¿ç”¨ç‚¹æ ‡è®°æ¥è®¿é—®ã€‚
 
-table.MsoNormalTable{
-mso-style-name:ÆÕÍ¨±í¸ñ;
-mso-style-parent:"";
-mso-style-noshow:yes;
-mso-tstyle-rowband-size:0;
-mso-tstyle-colband-size:0;
-mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
-mso-para-margin:0pt;
-mso-para-margin-bottom:.0001pt;
-mso-pagination:widow-orphan;
-font-family:'Times New Roman';
-font-size:10.0000pt;
-mso-ansi-language:#0400;
-mso-fareast-language:#0400;
-mso-bidi-language:#0400;
-}
-@page{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;}@page Section0{
-size:595.3500pt 841.9500pt;
-}
-div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt; " ><!--StartFragment--><div class="Section0" ><p class=MsoNormal  style="mso-pagination:widow-orphan; text-align:left; " ><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " >#Êı¾İ½á¹¹£º¶ÔÏóÓëÊı×é&nbsp;&#62;&#8220;Ôø¾­ÓĞÁ½´ÎÎÒ±»ÎÊµ½ÒÔÏÂÕâ¸öÎÊÌâ£º&#8216;×ğ¾´µÄ°Í±´ÆæÏÈÉú£¬Èç¹û½«´íÎóµÄÊı¾İÊäÈë»úÆ÷£¬ÄÜ·ñÄÜ¹»µÃµ½ÕıÈ·´ğ°¸ÄØ£¿&#8217;[...]ÎÒ²¢²»ÄÜºÜºÃµÄÀí½âÎªÊ²Ã´ÓĞµÄÈË»áÓĞÈç´Ë»ìÏıµÄÏë·¨£¬ÒÔÖÁÓÚ²úÉúÕâÑùµÄÒÉÎÊ¡£&#8221;&nbsp;&#62;---²é¶ûË¹.°Í±´Ææ£¬·¢±íÓÚ¡¶ÕÜÑ§¼ÒµÄÉú»î¡·£¨1864£©&nbsp;Êı×Ö¡¢²¼¶ûÖµÒÔ¼°×Ö·û´®¾ÍºÃ±ÈÊÇÊı¾İ½á¹¹¹¹³ÉµÄÒ»¿é¿é×©¡£µ«ÊÇÖ»ÓÃÒ»¿é×©²¢²»ÄÜÔì³ö¶à´óµÄ·¿×Ó¡£¶ÔÏó¿ÉÒÔ½«¶à¸öÖµ·Ö×é»¯--°üÀ¨ÆäËû¶ÔÏó--´Ó¶ø¹¹Ôì¸ü¶à¸´ÔÓµÄ½á¹¹¡£&nbsp;µ½Ä¿Ç°ÎªÖ¹£¬ÎÒÃÇËù±àĞ´µÄ³ÌĞò¶¼±»ÑÏÖØµÄÊø¸¿×Å--ËüÃÇ¶¼½ö½öÊ¹ÓÃ¼òµ¥µÄÊı¾İÀàĞÍ¡£±¾ÕÂ½«¸úÄãÒ»ÆğÀ´Ñ§Ï°Êı¾İ½á¹¹µÄ»ù±¾ÓÃ·¨¡£ÏàĞÅÑ§Ï°Íê±¾ÕÂ£¬Äã½«ÄÜ¹»Ğ´³öÒ»Ğ©¸ü¼ÓÓĞÓÃµÄ³ÌĞò¡£&nbsp;±¾ÕÂ½«Í¨¹ıÒ»Ğ©±à³ÌÊµÀı£¬½éÉÜÒ»Ğ©¿ÉÒÔ½â¾öÉí±ßÊµ¼ÊÎÊÌâµÄ¸ÅÄî¡£ÊµÀı´úÂë»áÉæ¼°µ½º¯ÊıÒÔ¼°±äÁ¿£¬ÕâĞ©ÄÚÈİÔÚÖ®Ç°µÄÕÂ½ÚÖĞÒÑÓĞ½éÉÜ¡£&nbsp;##ËÉÊóÈË&nbsp;ÑÅ¿Ë·¢ÏÖ£¬Ò»°ãÔÚÍíÉÏ°Ëµãµ½Ê®µãÖ®¼ä£¬Ëû³£»á±ä³ÉÒ»¸öĞ¡Ğ¡µÄ£¬Ã«È×È×µÄ£¬ÓĞ×Å´ó´óµÄÎ²°ÍµÄÄö³İÀà¶¯Îï¡£&nbsp;Ò»·½Ãæ£¬ÑÅ¿ËºÜÇìĞÒ×Ô¼º²»ÊÇ´«ËµÖĞµÄ±äÉíÎªÀÇÈË¡£¶øÊÇ±ä³ÉÒ»¸öËÉÊó£¬Õâ´øÀ´µÄÂé·³ËÆºõ±È±ä³ÉÒ»Ö»ÀÇÒªĞ¡µÃ¶à¡£±ä³ÉËÉÊóµÄËû²»ÓÃµ£ĞÄ»á·¢ÉúÒâÍâ³Ôµô×Ô¼ºµÄÁÚ¾Ó£¨ÄÇÊµÔÚÌ«¿ÉÅÂÁË£©£¬Ö»²»¹ıĞèÒªµ£ĞÄ×Ô¼º»á±»ÁÚ¾Ó¼ÒµÄÃ¨¸ø³Ôµô¡£ÔçÉÏĞÑÀ´µÄÊ±ºò£¬Ëû»á·¢ÏÖ×Ô¼ºÔÚÒ»¿ÅÏğÊ÷¶¥²¿·Ç³£Î£ÏÕÏ¸ÈõµÄÊ÷Ö¦ÉÏ£¬²¢ÇÒ»ëÉí³àÂã£¬ÕÒ²»×Å·½Ïò¡£ÔÚ·¢ÉúÁËÁ½´ÎÕâÑùµÄÇé¿öÖ®ºó£¬ÍíÉÏµÄÊ±ºòËû²»µÃ²»Ëø½ô·¿¼äµÄÃÅ´°£¬²¢ÇÒ·ÅÒ»Ğ©ËÉ¹ûÔÚµØ°åÉÏ£¬´Ó¶øÊ¹±ä³ÉËÉÊóµÄ×Ô¼ºÄÜ¹»Ã¦ÆğÀ´£¬¶ø²»ÖÁÓÚÅÜ³ö¼ÒÈ¥¡£&nbsp;![ËÉÊóÈË](Figure/chapter4/4_1.png)&nbsp;ÕâÑù×öÄÜ¹»Ê¹Ëû×Ô¼ºÃâÊÜÃ¨ºÍÏğÊ÷ÎÊÌâµÄ·³ÈÅ¡£µ«ÊÇÑÅ¿ËÈÔÊÜÕâÒ»Çé¿öµÄÀ§ÈÅ¡£±äÉí·¢ÉúµÄ²»¹æÂÉĞÔÊ¹µÃËû»³ÒÉ±äÉíÊÇÒòÎªÄ³Ğ©ÊÂÇéËù´¥·¢µÄ¡£Ò»¿ªÊ¼£¬ËûÉîĞÅÈç¹ûÄ³ÌìËûÔø¾­Åöµ½Ê÷£¬¾Í»á±ä³ÉËÉÊó¡£ÓÚÊÇËû¾ø²»´¥ÅöÊ÷Ä¾ÉõÖÁ±ÜÃâ¿¿½üÊ÷Ä¾¡£µ«ÊÇÕâÒ»ÎÊÌâÒÀÈ»´æÔÚ¡£&nbsp;ÎªÁËÕÒµ½±ä³ÉËÉÊóµÄÔ­Òò£¬ÑÅ¿Ë×ª¶ø²ÉÓÃÁËÒ»¸ö¸ü¿ÆÑ§µÄ·½·¨£¬Ëû´òËã¿ªÊ¼°ÑÃ¿ÌìËù×öµÄÊÂÇé¼ÇÂ¼ÏÂÀ´²¢¼ÇÂ¼µ±ÌìÊÇ·ñ±äÉí¡£Í¨¹ı¼ÇÂ¼ÏÂÀ´µÄÊı¾İ£¬ËûÏ£ÍûÄÜ¹»ËõĞ¡´¥·¢±äÉíµÄÌõ¼şµÄ·¶Î§¡£&nbsp;ËûÊ×ÏÈ×öµÄÊÂÇé¾ÍÊÇÉè¼ÆÒ»¸öÊı¾İ½á¹¹È¥´æ´¢ÕâÒ»ĞÅÏ¢¡£&nbsp;##Êı¾İ¼¯ºÏ&nbsp;ÎªÁË´¦ÀíÒ»´ó¶ÑÊı¾İ£¬ÎÒÃÇÊ×ÏÈ±ØĞëµÃÕÒµ½Ò»ÖÖÔÚ¼ÆËã»úÄÚ´æÖĞÃèÊöÊı¾İµÄ·½·¨¡£±ÈÈç£¬¾Ù¸ö¼òµ¥µÄÀı×Ó£¬ÎÒÃÇÏëÒªÃèÊöÒ»¸öÊıÖµ¼¯ºÏ£º2,3,5,7,11¡£&nbsp;ÎÒÃÇ¿ÉÒÔÊ¹ÓÃÌØ¶¨µÄ×Ö·û´®&#8212;&#8212;±Ï¾¹£¬×Ö·û´®¿ÉÒÔÊÇÈÎÒâ³¤¶È£¬ËùÒÔÎÒÃÇ¿ÉÒÔÏò×Ö·û´®ÖĞ´æÈëºÜ¶àÊı¾İ&#8212;&#8212;ÈçÊ¹ÓÃ×Ö·û´®`"2&nbsp;3&nbsp;5&nbsp;7&nbsp;11"`À´ÃèÊö¡£µ«ÊÇÕâÑù×öÊÇºÜÔã¸âµÄ¡£Äã½«±ØĞëÒÔÄ³ÖÖÌØ¶¨µÄ·½·¨»ñÈ¡ÊıÖµ£¬½«ËüÃÇÖØĞÂ×ª»»»ØÊıÖµ£¬²ÅÄÜ½øĞĞ´æÈ¡¡£&nbsp;ÖµµÃÇìĞÒµÄÊÇ£¬`Javascript`Ìá¹©ÁËÒ»ÖÖÊı¾İÀàĞÍÓÃÀ´×¨ÃÅ´æ´¢ÓĞĞòµÄÖµ¡£ÕâÖÖÊı¾İÀàĞÍ½Ğ×ö`Êı×é(Array)`£¬ËüµÄĞ´·¨ÊÇÔÚÒ»¶Ô·½À¨ºÅÖĞ½«Ò»ÏµÁĞµÄÖµÓÃ¶ººÅ¸ô¿ª¡£&nbsp;var&nbsp;listOfNumbers&nbsp;=&nbsp;[2,&nbsp;3,&nbsp;5,&nbsp;7,&nbsp;11];&nbsp;console.log(listOfNumbers[1]);&nbsp;//&nbsp;&#8594;&nbsp;3&nbsp;console.log(listOfNumbers[1&nbsp;-&nbsp;1]);&nbsp;//&nbsp;&#8594;&nbsp;2&nbsp;»ñÈ¡Êı×éÖĞµÄÔªËØÒÀÈ»Ê¹ÓÃ·½À¨ºÅ±ê¼Ç·¨¡£·½À¨ºÅÖ±½Ó½ÓÔÚ±í´ïÊ½ºóÃæ£¬·½À¨ºÅÖĞÊÇÁíÒ»¸ö±í´ïÊ½¡£ÕâÖÖĞ´·¨ÄÜ¹»¶ÁÈ¡×ó²à±í´ïÊ½ÖĞ£¬Óë·½À¨ºÅÄÚ±í´ïÊ½Ö¸ÏòµÄË÷Òı¶ÔÓ¦µÄÔªËØ¡£&nbsp;Êı×éÖĞµÄµÚÒ»¸öË÷ÒıÎª0£¬²»ÊÇ1¡£ËùÒÔµÚÒ»¸öÔªËØ¿ÉÒÔÊ¹ÓÃÒ»ÏÂ·½·¨¶ÁÈ¡£º`listOfNumbers[0]`¡£Èç¹ûÄã²¢Ã»ÓĞ±à³Ì±³¾°£¬ÕâÒ»Ô¼¶¨¿ÉÄÜĞèÒªÒ»Ğ©Ê±¼äÀ´ÊÊÓ¦Ò»ÏÂ¡£´Ó0¿ªÊ¼¼ÆÊıÔÚ¼¼ÊõÁìÓòÓĞ×ÅºÜ³¤Ò»¶ÎÊ±¼äµÄÀúÊ·£¬Ö»Òª`JavaScript`ÖĞµÄÕâÒ»Ô¼¶¨Âú×ã´Ó0¼ÆÊı£¬¾ÍÊÇÓĞĞ§µÄ¡£&nbsp;##ÊôĞÔ&nbsp;ÔÚÖ®Ç°µÄÀı×ÓÖĞ£¬ÎÒÃÇÓĞ¼ûµ½Ò»Ğ©Ææ¹ÖÄ°ÉúµÄ±í´ïÊ½£¬±ÈÈç`myString.length`(»ñÈ¡Ò»¸ö×Ö·û´®µÄ³¤¶È)ºÍ`Math.max`(Çó×î´óÖµº¯Êı)¡£ÕâĞ©±í´ïÊ½ÊÇÓÃÀ´¶ÁÈ¡Ä³Ğ©ÖµµÄÒ»¸öÊôĞÔÖµ£¨`property`)¡£µÚÒ»ÖÖÇé¿öÊÇ¶ÁÈ¡`myString`ÖĞµÄ`length`ÊôĞÔµÄÖµ¡£µÚ¶şÖÖÇé¿öÊÇ»ñÈ¡`Math`(`Math`¶ÔÏóÖĞ°üº¬Ò»Ğ©ÊıÑ§Ïà¹ØµÄÖµºÍº¯Êı)¶ÔÏóÖĞÃûÎª`max`µÄÊôĞÔ¡£&nbsp;¼¸ºõËùÓĞ`Javascript`ÖĞµÄÖµ¶¼ÓĞÊôĞÔ£¬³ıÁË`null`ºÍ`undifined`Ö®Íâ¡£Èç¹ûÊÔÍ¼·ÃÎÊËüÃÇÖĞµÄÒ»¸öµÄÊôĞÔ£¬½«»á±¨´í¡£&nbsp;null.length;&nbsp;//&nbsp;&#8594;&nbsp;TypeError:&nbsp;Cannot&nbsp;read&nbsp;property&nbsp;'length'&nbsp;of&nbsp;null&nbsp;ÔÚ`Javascript`ÖĞÓĞÁ½ÖÖ³£ÓÃµÄ·½·¨À´·ÃÎÊÊôĞÔ£¬Ê¹ÓÃµã(`.`)»ò·½À¨ºÅ(`[]`)¡£`value.x`ºÍ`value[x]`¶¼¿ÉÒÔ·ÃÎÊ`value`µÄÒ»¸öÊôĞÔ¡£µ«ÊÇ²¢²»¶¨ÊÇÍ¬Ò»¸öÊôĞÔ¡£²»Í¬Ö®´¦ÔÚÓÚ`x`×÷ºÎ½âÊÍ¡£µ±Ê¹ÓÃµã·ÃÎÊÊôĞÔÊ±£¬½ô¸úÔÚµãºóÃæµÄ²¿·Ö±ØĞëÊÇÒ»¸öºÏ·¨µÄ±äÁ¿Ãû£¬ËüÖ±½Ó±íÊ¾ÊôĞÔµÄÃû×Ö¡£µ±Ê¹ÓÃ·½À¨ºÅ·ÃÎÊÊôĞÔÊ±£¬·½À¨ºÅÖĞµÄ±í´ïÊ½µÄ¼ÆËãÖµµÈÓÚÊôĞÔµÄÃû×Ö¡£¼øÓÚ´Ë£¬`value.x`»ñÈ¡µÄÊÇ`value`ÖĞÃûÎª&#8220;x&#8221;µÄÊôĞÔÖµ£¬`value[x]`ÏÈ¼ÆËã±í´ïÊ½xµÄÖµ£¬ÔÙ½«¼ÆËã½á¹û×÷ÎªÊôĞÔÃû¡£&nbsp;ËùÒÔÄãÖªµÀÄãÏëÒª»ñÈ¡µÄÊôĞÔÃû½Ğ×ö&#8220;`length`&#8221;£¬Äã¿ÉÒÔÊ¹ÓÃ`value.length`¡£Èç¹ûÄãÏëÒª»ñÈ¡Ãû×Ö´æ´¢ÔÚ±äÁ¿`i`ÖĞµÄÊôĞÔµÄÖµ£¬Äã¿ÉÒÔÊ¹ÓÃ`value[i]`¡£ÁíÍâ£¬ÓÉÓÚÊôĞÔÃû¿ÉÒÔÎªÈÎÒâ×Ö·û´®£¬Èç¹ûÄãÏë·ÃÎÊÃûÎª&#8220;`2`&#8221;»ò&#8220;`John&nbsp;Doe`&#8221;µÄÊôĞÔ£¬Äã±ØĞëÊ¹ÓÃ·½À¨ºÅ£º`value[2]`»ò`value["John&nbsp;Doe"]`¡£ÕâÖÖÇé¿ö¼´Ê¹ÊÂÏÈÖªµÀ¾«È·µÄÊôĞÔÃû£¬Ò²ÒÀÈ»ÒªÊ¹ÓÃ·½À¨ºÅÀ´·ÃÎÊ¡£ÒòÎª²»¹Ü&#8220;`2`&#8221;»¹ÊÇ&#8220;`John&nbsp;Doe`&#8221;¶¼²»ÊÇÒ»¸öºÏ·¨µÄ±äÁ¿Ãû£¬Òò´Ë²»¿ÉÒÔÊ¹ÓÃµã±ê¼ÇÀ´·ÃÎÊ¡£&nbsp;Êı×éÖĞµÄÔªËØ¶¼ÊÇ±»´æ´¢ÔÚÊôĞÔÖĞµÄ¡£ÒòÎªÕâĞ©ÊôĞÔµÄÃû×Ö¶¼ÊÇÊı×Ö²¢ÇÒÎÒÃÇ¾­³£ĞèÒªÍ¨¹ı±äÁ¿À´»ñÈ¡ÕâĞ©ÊôĞÔÃû£¬ËùÒÔÎÒÃÇ±ØĞëÊ¹ÓÃ·½À¨ºÅÀ´·ÃÎÊÊı×éÖĞµÄÔªËØ¡£Êı×éµÄ`length`ÊôĞÔ±íÃ÷Ò»¸öÊı×éÖĞ°üº¬¶àÉÙÔªËØ¡£ÕâÒ»ÊôĞÔÃûÊÇºÏ·¨±äÁ¿Ãû£¬ÎÒÃÇÒ²ÊÂÏÈÖªµÀ£¬ËùÒÔÎÒÃÇ¾­³£Ê¹ÓÃ`array.length`À´»ñÈ¡Ò»¸öÊı×éµÄ³¤¶È£¬²¢ÇÒÕâÒ²±È`array["length"}`¸üÈİÒ×ÊéĞ´¡£&nbsp;##·½·¨&nbsp;×Ö·û´®(`string`)ºÍÊı×é(`array`)³ıÁË`length`ÊôĞÔÖ®Íâ£¬¶¼»¹ÓĞÒ»ÏµÁĞÖµÎªº¯ÊıµÄÊôĞÔ¡£&nbsp;var&nbsp;doh&nbsp;=&nbsp;"Doh";&nbsp;console.log(typeof&nbsp;doh.toUpperCase);&nbsp;//&nbsp;&#8594;&nbsp;function&nbsp;console.log(doh.toUpperCase());&nbsp;//&nbsp;&#8594;&nbsp;DOH&nbsp;Ã¿¸ö×Ö·û´®¶¼ÓĞÒ»¸ö`toUpperCase`ÊôĞÔ¡£µ±µ÷ÓÃÕâÒ»ÊôĞÔÊ±£¬½«·µ»ØÔ­±¾×Ö·û´®µÄÒ»¸ö¿½±´£¬·µ»ØµÄ×Ö·û´®ÖĞ½«Ô­×Ö·û´®ÖĞµÄËùÓĞ×ÖÄ¸¶¼×ª»¯Îª´óĞ´×ÖÄ¸¡£Í¬ÑùµÄ×Ö·û´®ÖĞ»¹ÓĞÒ»¸ö`toLowerCase`ÊôĞÔ¡£´Ó×ÖÃæÒâË¼Ó¦¸Ã¾ÍÄÜ¿´³öËüµÄ×÷ÓÃ¡£&nbsp;ÓĞÈ¤µÄÊÇ£¬¼´Ê¹µ÷ÓÃ`toUpperCase`·½·¨Ê±²»´«ÈëÈÎºÎ²ÎÊı£¬º¯Êı×ÜÄÜ»ñÈ¡µ½×Ö·û´®`Doh`£¬Õâ¸öÖµ¾ÍÊÇÎÒÃÇµ÷ÓÃµÄÊôĞÔËùÊôµÄÖµ¡£ÖÁÓÚÕâÒ»Çé¿öµ½µ×ÔõÃ´»ØÊÂ£¬ÎÒÃÇ½«ÔÚ[µÚÁùÕÂ](/chapter6.md)½øĞĞÃèÊö¡£&nbsp;µ±ÊôĞÔµÄÖµÎªº¯ÊıÊ±£¬ÎÒÃÇÍ¨³£³ÆÕâĞ©ÊôĞÔÎªËùÊôÖµµÄ`·½·¨`(method)¡£ÈçÖ®Ç°ËùËµ£¬&#8220;`toUpperCase`ÊÇ×Ö·û´®µÄÒ»¸ö·½·¨&#8221;¡£&nbsp;</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan; " ><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " >ÏÂÃæµÄÀı×ÓÕ¹Ê¾ÁËÊı×é¶ÔÏó°üº¬µÄÒ»Ğ©·½·¨£º</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan; text-align:left; " ><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " >var&nbsp;mack&nbsp;=&nbsp;[];&nbsp;mack.push("Mack");&nbsp;mack.push("the",&nbsp;"Knife");&nbsp;console.log(mack);&nbsp;//&nbsp;&#8594;&nbsp;["Mack",&nbsp;"the",&nbsp;"Knife"]&nbsp;console.log(mack.join("&nbsp;"));&nbsp;//&nbsp;&#8594;&nbsp;Mack&nbsp;the&nbsp;Knife&nbsp;console.log(mack.pop());&nbsp;//&nbsp;&#8594;&nbsp;Knife&nbsp;console.log(mack);&nbsp;//&nbsp;&#8594;&nbsp;["Mack",&nbsp;"the"]&nbsp;`push`·½·¨ÄÜ¹»ÓÃÀ´ÏòÊı×éµÄÄ©Î²Ìí¼ÓÖµ£¨¿ÉÒÔÊÇÒ»¸ö»òÕß¶à¸ö£©¡£`pop`·½·¨µÄ¹¦ÄÜÇ¡ºÃÏà·´£ºËü»áÒÆ³ıÊı×éÄ©Î²µÄÒ»¸öÖµ²¢ÇÒ·µ»ØÕâ¸öÖµ¡£Ò»¸ö×Ö·û´®Êı×éÄÜ¹»Í¨¹ı`join`·½·¨±âÆ½»¯ÎªÒ»¸öµ¥¶ÀµÄ×Ö·û´®¡£`join`ÖĞ´«ÈëµÄ²ÎÊıÓÃÀ´½«Êı×éÖĞµÄ¸÷ÔªËØÁ¬½ÓÆğÀ´¡£&nbsp;##¶ÔÏó&nbsp;»Øµ½Ö®Ç°Ìáµ½µÄËÉÊóÈË¡£Ã¿ÌìµÄÈÕÖ¾¼ÇÂ¼¿ÉÒÔÓÃÒ»¸öÊı×éÀ´ÃèÊö¡£µ«ÊÇÃ¿Ìõ¼ÇÂ¼²¢²»Ö»ÊÇ°üº¬Êı×Ö»ò×Ö·û´®&#8212;&#8212;Ã¿Ìõ¼ÇÂ¼ĞèÒª´æ´¢Ò»ÏµÁĞµÄ»î¶¯ÒÔ¼°Ò»¸ö±íÊ¾ÑÅ¿ËÊÇ·ñ±äÎªËÉÊóµÄ²¼¶ûÖµ¡£ÀíÏëµÄÇé¿öÊÇ£¬ÎÒÃÇÄÜ¹»½«ÕâĞ©ÖµÍ³Ò»³ÉÒ»¸öµ¥¶ÀµÄÖµ£¬È»ºóÔÙ½«ÕâĞ©Í³Ò»ºÃµÄÖµ·ÅÈëÈÕÖ¾¼ÇÂ¼Êı×éÖĞ¡£&nbsp;¶ÔÏóÀàĞÍ(`object`)µÄÖµÊÇ×¨ÃÅµÄÊôĞÔµÄ¼¯ºÏ¡£ÎÒÃÇ¿ÉÒÔËæÒâÌí¼Ó»òÉ¾³ıÕâĞ©ÊôĞÔ¡£Ò»ÖÖ´´½¨¶ÔÏóµÄ·½·¨ÊÇÊ¹ÓÃ´óÀ¨ºÅ±ê¼Ç·¨¡£&nbsp;var&nbsp;day1&nbsp;=&nbsp;{&nbsp;squirrel:&nbsp;false,&nbsp;events:&nbsp;["work",&nbsp;"touched&nbsp;tree",&nbsp;"pizza",&nbsp;"running",&nbsp;"television"]&nbsp;};&nbsp;console.log(day1.squirrel);&nbsp;//&nbsp;&#8594;&nbsp;false&nbsp;console.log(day1.wolf);&nbsp;//&nbsp;&#8594;&nbsp;undefined&nbsp;day1.wolf&nbsp;=&nbsp;false;&nbsp;console.log(day1.wolf);&nbsp;//&nbsp;&#8594;&nbsp;false&nbsp;ÔÚ´óÀ¨ºÅÖĞ£¬°üº¬×ÅÒ»ÏµÁĞÊôĞÔÖµ£¬¸÷ÊôĞÔÖµÖ®¼äÓĞ·ÖºÃ(`;`)¸ô¿ª¡£Ã¿Ò»¸öÊôĞÔ¶¼Ãû×ÖºóÃæ½ô¸úÒ»¸ö·ÖºÅ(`:`)£¬ÔÙºóÃæ½Ó×ÅÒ»¸ö±í´ïÊ½£¬Õâ¸ö±í´ïÊ½µÄÖµ¾ÍÊÇÏàÓ¦ÊôĞÔµÄÖµ¡£¿Õ¸ñºÍ»»ĞĞ·ûÊÇÎŞĞ§µÄ¡£¶ÔÏó¿ç¶àĞĞ£¬ÈçÉÏÀıÒ»ÑùËõ½øÅÅÁĞÄÜ¹»Ìá¸ß´úÂëµÄ¿É¶ÁĞÔ¡£Èç¹ûÊôĞÔµÄÃû×Ö²»ÊÇÒ»¸öºÏ·¨µÄ±äÁ¿Ãû»òÕßÊÇºÏ·¨µÄÊı×ÖÔò±ØĞëÊ¹ÓÃÒıºÅ¡£&nbsp;var&nbsp;descriptions&nbsp;=&nbsp;{&nbsp;work:&nbsp;"Went&nbsp;to&nbsp;work",&nbsp;"touched&nbsp;tree":&nbsp;"Touched&nbsp;a&nbsp;tree"&nbsp;};&nbsp;Õâ¾ÍÒâÎ¶×Å´óÀ¨ºÅÔÚ`Javascript`ÖĞÓĞ*Á½ÖÖº¬Òå*¡£µ±´óÀ¨ºÅ³öÏÖÔÚÓï¾äµÄÊ×²¿Ê±£¬ÓÃÀ´ÉùÃ÷Ò»¸ö´úÂë¿é¡£µ±´óÀ¨ºÅ³öÏÖÔÚÆäËûÎ»ÖÃÊ±£¬ÔòÓÃÀ´ÃèÊöÒ»¸ö¶ÔÏó¡£ĞÒÔËµÄÊÇ£¬ÔÚÒ»ÌõÓï¾ä¿ªÊ¼Ê¹ÓÃ´óÀ¨ºÅ¶¨Òå¶ÔÏó¼¸ºõÃ»ÓĞÓÃ´¦£¬ÔÚµäĞÍµÄ³ÌĞòÖĞ£¬ÕâÁ½ÖÖÓÃ·¨²¢Ã»ÓĞÊ²Ã´Ã¬¶ÜÖ®´¦¡£&nbsp;¶ÁÈ¡Ò»¸ö²¢²»´æÔÚµÄÊôĞÔ½«µÃµ½`undefined`¡£ÔÚÖ®Ç°µÄÀı×ÓÖĞ£¬¶ÁÈ¡`wolf`Õâ¸öÊôĞÔÊ±¾ÍÊÇÕâÖÖÇé¿ö¡£&nbsp;¿ÉÒÔÊ¹ÓÃ¸³Öµ(`=`)²Ù×÷·û¸øÒ»¸öÊôĞÔ±í´ïÊ½¸³Öµ¡£Èç¹û¸ÃÊôĞÔÒÑ´æÔÚ£¬Ôò½«ĞÂµÄÖµÌæ»»ÊôĞÔÔ­±¾µÄÖµ¡£Èç¹û¸ÃÊôĞÔ²»´æÔÚ£¬ÔòÔÚ¸Ã¶ÔÏóÉÏ´´½¨Ò»¸öĞÂÊôĞÔ£¬²¢½«Öµ¸³Óè¸ÃĞÂÊôĞÔ¡£&nbsp;¼òµ¥Æğ¼û£¬²ÎÕÕ±äÁ¿°ó¶¨µÄ´¥½ÇÄ£ĞÍ&#8212;&#8212;ÊôĞÔ°ó¶¨Ò²ÊÇÀàËÆµÄ¡£ÕâĞ©´¥ÊÖ×¥×ÅÒ»Ğ©Öµ£¬µ«ÊÇÆäËû±äÁ¿ÒÔ¼°ÊôĞÔ¿ÉÄÜÒ²³ÖÓĞÕâĞ©ÏàÍ¬µÄÖµ¡£Äã¿ÉÒÔ°Ñ¶ÔÏóÏëÏóÎªÕÂÓã£¬ÕâĞ©ÕÂÓãÓĞ×ÅÈÎÒâÌõµÄ´¥ÊÖ£¬Ã¿Ò»¸ö´¥ÊÖÉÏÃæ¶¼±ê×ÅÒ»¸öÃû×Ö¡£&nbsp;![ÕÂÓã¶ÔÏó](Figure/chapter4/4_2.jpg)&nbsp;`delete`²Ù×÷·ûÄÜ¹»´ÓÕâÑùÒ»Ö»ÕÂÓãÉíÉÏ¿³µôÒ»Ìõ´¥ÊÖ¡£`delete`²Ù×÷·ûÊÇÒ»Ôª²Ù×÷·û¡£`delete`ºóÃæ½ô¸úÊôĞÔ·ÃÎÊ±í´ïÊ½£¬½«ÒÆ³ı¸Ã¶ÔÏóÖ¸¶¨µÄÊôĞÔ¡£¸Ã²Ù×÷·û¹¦ÄÜÈçÉÏ£¬²»¹ıÈ´²¢²»³£ÓÃ¡£&nbsp;var&nbsp;anObject&nbsp;=&nbsp;{left:&nbsp;1,&nbsp;right:&nbsp;2};&nbsp;console.log(anObject.left);&nbsp;//&nbsp;&#8594;&nbsp;1&nbsp;delete&nbsp;anObject.left;&nbsp;console.log(anObject.left);&nbsp;//&nbsp;&#8594;&nbsp;undefined&nbsp;console.log("left"&nbsp;in&nbsp;anObject);&nbsp;//&nbsp;&#8594;&nbsp;false&nbsp;console.log("right"&nbsp;in&nbsp;anObject);&nbsp;//&nbsp;&#8594;&nbsp;true&nbsp;`in`²Ù×÷·ûÎª¶şÔª²Ù×÷·û£¬×ó²àÎªÊôĞÔÃû(×Ö·û´®)£¬ÓÒ²àÎª¶ÔÏó¡£Ê¹ÓÃ`in`²Ù×÷·û»á·µ»ØÒ»¸ö²¼¶ûÖµ£¬Õâ¸ö²¼¶ûÖµ±íÃ÷¸Ã¶ÔÏóÖĞÊÇ·ñ´æÔÚ¸ÃÊôĞÔ¡£½«Ò»¸ö¶ÔÏóµÄÊôĞÔÖµÉèÎª`undefined`ÓëÊ¹ÓÃ`delete`²Ù×÷·ûÉ¾³ı¸ÃÊôĞÔÊÇ´æÔÚÇø±ğµÄ¡£ÔÚµÚÒ»ÖÖÇé¿öÏÂ£¬¸Ã¶ÔÏóÖĞÈÔÈ»´æÔÚ¸ÃÊôĞÔ(Ö»²»¹ı¸ÃÊôĞÔÃ»ÓĞÓĞÒâÒåµÄÖµ)£¬¶øµÚ¶şÖÖÇé¿ö£¬¸ÃÊôĞÔ½«²»ÔÙ´æÔÚÓÚ¶ÔÏóÖ®ÖĞ£¬Ê¹ÓÃ&nbsp;`in`²Ù×÷·û½«µÃµ½`false`¡£&nbsp;Êı×é½ö½öÊÇÒ»ÖÖÌØÊâµÄ¶ÔÏó£¬ÓÃÀ´´æ´¢ÓĞĞòÖµ¡£`typeof&nbsp;[1,&nbsp;2]`µÄ·µ»ØÖµ¼´Îª`"object"`¡£¿ÉÒÔ½«Êı×é¿´³ÉÒ»¸ö³¤³¤µÄ±âÆ½µÄÕÂÓã£¬ÕÂÓãµÄ´¥ÊÖÉÏ±ê×ÅÊı×Ö£¬²¢ÕûÆëµØÅÅÁĞÔÚÒ»ĞĞ¡£&nbsp;![ÕÂÓãÊı×é](Figure/chapter4/4_3.jpg)&nbsp;ÄÇÃ´½ÓÏÂÀ´£¬ÎÒÃÇ¿ÉÒÔ½«ÑÅ¿ËµÄÈÕ¼Ç¿´³ÉÒ»¸öÓĞ¶ÔÏó×é³ÉµÄÊı×é¡£&nbsp;var&nbsp;journal&nbsp;=&nbsp;[&nbsp;{events:&nbsp;["work",&nbsp;"touched&nbsp;tree",&nbsp;"pizza",&nbsp;"running",&nbsp;"television"],&nbsp;squirrel:&nbsp;false},&nbsp;{events:&nbsp;["work",&nbsp;"ice&nbsp;cream",&nbsp;"cauliflower",&nbsp;"lasagna",&nbsp;"touched&nbsp;tree",&nbsp;"brushed&nbsp;teeth"],&nbsp;squirrel:&nbsp;false},&nbsp;{events:&nbsp;["weekend",&nbsp;"cycling",&nbsp;"break",&nbsp;"peanuts",&nbsp;"beer"],&nbsp;squirrel:&nbsp;true},&nbsp;/*&nbsp;and&nbsp;so&nbsp;on...&nbsp;*/&nbsp;];&nbsp;##Ò×±äĞÔ&nbsp;½ÓÏÂÀ´ÎÒÃÇ½«Ñ§µ½Ò»¸öÊµ¼Ê±à³ÌµÄÕæÀí¡£²»¹ıÊ×ÏÈÎÒÃÇ»¹ÓĞ×îºóÒ»ÌõÀíÂÛĞèÒªÀí½â¡£&nbsp;Ö®Ç°ÎÒÃÇÓĞÑ§Ï°µ½£¬¶ÔÏóµÄÖµ¿ÉÒÔ±»¸Ä±ä¡£ÖµµÄÀàĞÍÔÚÖ®Ç°µÄÕÂ½ÚÖĞÒÑ¾­ÌÖÂÛ¹ı£¬ÈçÊıÖµ(`number`)¡¢×Ö·û´®(`string`)ÒÔ¼°²¼¶ûÖµ(`boolean`)¡£ÕâĞ©ÀàĞÍµÄÖµ¶¼ÊÇ*²»¿É±äµÄ*&#8212;&#8212;ÏëÒª¸Ä±äÒ»¸öÕâĞ©ÀàĞÍÒÑ´æÔÚµÄÖµÊÇ²»¿ÉÄÜµÄ¡£¿ÉÒÔ½áºÏËüÃÇ£¬»òÕß´ÓÖĞÑÜÉú³öÆäËûÖµ¡£µ«ÊÇµ±ÄãÊ¹ÓÃÒ»¸öÃ÷È·µÄ×Ö·û´®ÖµÊ±£¬Õâ¸öÖµ½«Ò»Ö±±£³Ö²»±ä¡£×Ö·û´®ÖĞ°üº¬µÄÎÄ±¾ÊÇ²»¿É±äµÄ¡£Èç¹ûÄãÓĞÒ»¸öÄÚÈİÎª`"cat"`µÄ×Ö·û´®£¬Äã²»¿ÉÄÜÊ¹ÓÃÆäËû´úÂëÀ´¸Ä±ä¸Ã×Ö·û´®ÖĞµÄÒ»¸ö×Ö·ûÀ´Ê¹µÃ×Ö·û´®µÄÄÚÈİÎª`"rat"`¡£&nbsp;ÔÚÁíÒ»·½Ãæ£¬¶ÔÏó¿ÉÒÔÍ¨¹ı¸Ä±ä×ÔÉíÊôĞÔµÄÖµ£¬À´¸Ä±ä¶ÔÏóÖµµÄÄÚÈİ¡£&nbsp;µ±ÎÒÃÇÓĞÁ½¸öÊıÖµ£¬120ºÍ120£¬ÎÒÃÇ¿ÉÒÔÈÏÎªËûÃÇÊÇÍêÈ«ÏàÍ¬µÄÊıÖµ¡£²»¹ÜËûÃÇÊÇ·ñÖ¸ÏòÏàÍ¬µÄÎïÀíÄÚ´æ¡£µ«ÊÇ¶ÔÓÚ¶ÔÏó¶øÑÔ£¬Á½¸öÖ¸ÏòÏàÍ¬µÄ¶ÔÏóºÍÁ½¸ö°üº¬ÏàÍ¬ÊôĞÔµÄ²»Í¬¶ÔÏóÊÇ²»Í¬µÄ¡£Ë¼¿¼Ò»ÏÂÈçÏÂ´úÂë£º&nbsp;var&nbsp;object1&nbsp;=&nbsp;{value:&nbsp;10};&nbsp;var&nbsp;object2&nbsp;=&nbsp;object1;&nbsp;var&nbsp;object3&nbsp;=&nbsp;{value:&nbsp;10};&nbsp;console.log(object1&nbsp;==&nbsp;object2);&nbsp;//&nbsp;&#8594;&nbsp;true&nbsp;console.log(object1&nbsp;==&nbsp;object3);&nbsp;//&nbsp;&#8594;&nbsp;false&nbsp;object1.value&nbsp;=&nbsp;15;&nbsp;console.log(object2.value);&nbsp;//&nbsp;&#8594;&nbsp;15&nbsp;console.log(object3.value);&nbsp;//&nbsp;&#8594;&nbsp;10&nbsp;±äÁ¿`object1`ºÍ±äÁ¿`object2`Ö¸ÏòÏàÍ¬µÄ¶ÔÏó£¬ËùÒÔ¸Ä±ä`object1`µÄÖµ£¬`object2`µÄÖµÒ²»á·¢Éú¸Ä±ä¡£±È½Ï²»Í¬µÄ¶ÔÏó½«·µ»Ø`false`£¬¼´Ê¹ËüÃÇÓĞ×ÅÏàÍ¬µÄÄÚÈİ¡£`Javascript`ÖĞÃ»ÓĞÄÚÖÃÉî¶È±È½ÏµÄ²Ù×÷(Éî¶È±È½Ï¶ÔÏóµÄÄÚÈİ)£¬²»¹ı¿ÉÒÔ×Ô¼ºÊµÏÖ(±¾ÕÂÖ®ºóµÄÒ»¸öÁ·Ï°Ò²»áÊµÏÖÏà¹ØµÄ¹¦ÄÜ)¡£&nbsp;##ÊŞ»¯ÈËµÄÈÕÖ¾&nbsp;ÓÚÊÇ£¬ÑÅ¿Ë¿ªÊ¼Æô¶¯ËûµÄ`Javascript`½âÊÍÆ÷£¬´î½¨±£´æÈÕÖ¾ËùĞèµÄ»·¾³¡£&nbsp;var&nbsp;journal&nbsp;=&nbsp;[];&nbsp;function&nbsp;addEntry(events,&nbsp;didITurnIntoASquirrel)&nbsp;{&nbsp;journal.push({&nbsp;events:&nbsp;events,&nbsp;squirrel:&nbsp;didITurnIntoASquirrel&nbsp;});&nbsp;}&nbsp;ÓÚÊÇ£¬Ã¿ÌìÍíÉÏÊ®µãÉõÖÁÓĞÊ±ÊÇµÚ¶şÌìÔçÉÏ£¬µ±ÑÅ¿Ë´ÓËû×Ô¼ºµÄÊé¼Ü¶¥²¿ºó&#8212;&#8212;Ëû±ã¿ªÊ¼¼ÇÂ¼Ò»ÌìµÄÊÂÇé¡£&nbsp;addEntry(["work",&nbsp;"touched&nbsp;tree",&nbsp;"pizza",&nbsp;"running",&nbsp;"television"],&nbsp;false);&nbsp;addEntry(["work",&nbsp;"ice&nbsp;cream",&nbsp;"cauliflower",&nbsp;"lasagna",&nbsp;"touched&nbsp;tree",&nbsp;"brushed&nbsp;teeth"],&nbsp;false);&nbsp;addEntry(["weekend",&nbsp;"cycling",&nbsp;"break",&nbsp;"peanuts",&nbsp;"beer"],&nbsp;true);&nbsp;Ò»µ©ÑÅ¿ËÊÕ¼¯µ½×ã¹»µÄÊı¾İ¼ÇÂ¼£¬Ëû¾Í¿ÉÒÔ³¢ÊÔÍÆ¶ÏËû±ä³ÉËÉÊóºÍÃ¿Ìì·¢ÉúµÄÊÂ¼şÖ®Ç°µÄ¹ØÁª£¬´Ó¶øÄÜ¹»´ÓÕâĞ©¹ØÁªÖ®ÖĞÁË½âµ½Ò»Ğ©ÓĞÓÃµÄ¶«Î÷¡£&nbsp;*¹ØÁª*ÊÇ±äÁ¿Ö®¼äÒÀÀµĞÔµÄ¶ÈÁ¿(ÕâÀïËùËµµÄ&#8220;±äÁ¿&#8221;ÊÇ´ÓÍ³¼ÆÑ§½Ç¶ÈµÄÀ´ËµµÄ¸ÅÄî£¬¶ø²»ÊÇ`Javascript`µÄ¸ÅÄî)¡£ÕâÒ»¹ØÁªÍ¨³£ÎªÖµÎª[-1,1]µÄÏµÊı¡£ÏµÊıÎª0Ê±£¬±íÃ÷±äÁ¿Ö®¼äÃ»ÓĞ¹ØÁª£»ÏµÊıÎª1Ê±£¬±íÃ÷Á½±äÁ¿Ö®¼äÍêÈ«Ïà¹Ø£»ÏàÓ¦µØÏµÊıÎª-1Ê±£¬ÔòÈİÒ×Ïëµ½¡£ÏµÊıÎª-1Ê±£¬Í¬ÑùÒâÎ¶×ÅÁ½¸ö±äÁ¿ÍêÈ«Ïà¹Ø£¬Ö»²»¹ıÊÇ¸ºÏà¹Ø&#8212;&#8212;µ±ÆäÖĞÒ»¸öÈËÎªÕæÊ±£¬ÁíÒ»¸öÔòÎª¼Ù¡£&nbsp;¶ÔÓÚ¶şÔª±äÁ¿£¬Ï£À°×ÖÄ¸(*&#981;*)¿ÉÒÔÓÃÀ´ºÜºÃµÄ±íÊ¾¹ØÁª¶ÈÁ¿£¬ÏàÓ¦µØºÜÈİÒ×¼ÆËã¡£ÎªÁË¼ÆËã*&#981;*£¬ÎÒÃÇĞèÒªÒ»¸ö±í*n*,Õâ¸ö±íÖĞ°üº¬ÎÒÃÇËù±È½ÏµÄÁ½¸ö±äÁ¿Ö®¼ä²»Í¬¹ØÁªµÄ´ÎÊı¡£ÎÒÃÇ¿ÉÒÔÒÔ³ÔÅûÈøÕâ¼şÊÂÎªÀı£¬½«Ö®Ğ´Èë±í¸ñÈçÏÂ£º&nbsp;![ÅûÈøÊÂ¼ş±í](Figure/chapter4/4_4.png)&nbsp;*&#981;*¿ÉÒÔÊ¹ÓÃÒÔÏÂ¹«Ê½¼ÆËã£¬*n*¿ÉÒÔÓÑ±í¸ñµÃÖª£º&nbsp;![Ïà¹ØĞÔ¹«Ê½](Figure/chapter4/4_5.png)&nbsp;±ê¼Ç*n</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; vertical-align:sub; " >01</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " >*ÊÇÖ¸µÚÒ»¸ö±äÁ¿(±äÎªËÉÊó)Îª¼Ù(0)£¬µÚ¶ş¸ö±äÁ¿(pizza)ÎªÕæ(1)ÕâÖÖÇé¿öµÄ´ÎÊı¡£ÔÚ±¾ÀıÖĞ£¬*n</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; vertical-align:sub; " >01</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " >*Îª9¡£&nbsp;Öµ*n</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; vertical-align:sub; " >1.</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " >*ÊÇÖ¸µÚÒ»¸ö±äÁ¿ÎªÕæÕâÖÖÇé¿öµÄ×Ü´ÎÊı£¬ÔÚÉÏÀıµÄ±í¸ñÖĞ¹²Îª5¡£Í¬ÑùµØ£¬*n</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; vertical-align:sub; " >.0</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " >*ÊÇÖ¸µÚ¶ş¸ö±äÁ¿Îª¼ÙÕâÖÖÇé¿öµÄ×Ü´ÎÊı¡£&nbsp;ËùÒÔ£¬²ÎÕÕÅûÈøÊÂ¼ş±í¸ñ£¬·ÖºÅÉÏÃæµÄ²¿·ÖÎª`1*76&nbsp;-&nbsp;4*9&nbsp;=&nbsp;40`£¬·ÖºÅÏÂÃæµÄ²¿·ÖÎª5*85*10*80µÄÆ½·½¸ù£¬¼´Îª340000µÄÆ½·½¸ù¡£¿ÉÒÔ¼ÆËãµÃ³ö£¬*&#981;&nbsp;&#8776;&nbsp;0.069*£¬Õâ¸öÏà¹ØÏµÊıÊÇºÜĞ¡µÄ¡£ËùÒÔ³ÔÅûÈø¿ÉÒÔÈÏÎª¶Ô×ª±ä²¢ÎŞÓ°Ïì¡£&nbsp;##Ïà¹ØĞÔ¼ÆËã&nbsp;ÔÚ`Javascript`ÖĞ£¬ÎÒÃÇ¿ÉÒÔÊ¹ÓÃÒ»¸öËÄ¸öÔªËØµÄÊı×é([76,&nbsp;9,&nbsp;4,&nbsp;1])À´ÃèÊöÒ»¸ö2ĞĞ2ÁĞµÄ±í¸ñ¡£µ±È»Ò²¿ÉÒÔÊ¹ÓÃÆäËûÃèÊö·½Ê½£¬±ÈÈçÒ»¸ö°üº¬Á½¸öÊı×éÔªËØµÄÊı×é»òÕßÒ»¸ö°üº¬Èç`11`ºÍ`01`ÊôĞÔÃûµÄ¶ÔÏó¡£²»¹ıÒ»Î¬Êı×é±È½Ï¼òµ¥£¬²¢ÇÒ¿ÉÒÔºÜ·½±ãµÄ·ÃÎÊÉÏÊö±í´ïÊ½ÖĞµÄ¸÷±äÁ¿¡£¿ÉÒÔ½«ÉÏÊö±í´ïÊ½ÖĞµÄ¸÷±äÁ¿¿´×÷Ò»¸öÁ½Î»µÄ¶ş½øÖÆÊı£¬×ó±ßÒ»Î»±íÊ¾ËÉÊó±äÁ¿£¬ÓÒ±ßÒ»Î»±íÊ¾ÏàÓ¦µÄÊÂ¼ş±äÁ¿¡£±ÈÈç£¬¶ş½øÖÆÊı`10`ÊÇÖ¸ÑÅ¿Ë±ä³ÉËÉÊó£¬µ«ÊÇÃ»ÓĞ³ÔÅûÈøÕâÒ»Çé¿ö¡£ÕâÒ»Çé¿ö·¢ÉúÁËËÄ´Î¡£¶ş½øÖÆÊı`10`×ª»¯ÎªÊ®½øÖÆÎª`2`£¬Ôò½«Õâ¸ö´ÎÊı´æÈëÊı×éÖĞ£¬Ë÷ÒıÎª2¡£&nbsp;ÏÂÃæÊÇÒ»¸öº¯Êı£¬¸Ãº¯Êı¿ÉÒÔ´ÓÉÏÊöÕâÑùÒ»¸öÊı×éÖĞ¼ÆËã³öÏà¹ØĞÔ*&#981;*£º&nbsp;function&nbsp;phi(table)&nbsp;{&nbsp;return&nbsp;(table[3]&nbsp;*&nbsp;table[0]&nbsp;-&nbsp;table[2]&nbsp;*&nbsp;table[1])&nbsp;/&nbsp;Math.sqrt((table[2]&nbsp;+&nbsp;table[3])&nbsp;*&nbsp;(table[0]&nbsp;+&nbsp;table[1])&nbsp;*&nbsp;(table[1]&nbsp;+&nbsp;table[3])&nbsp;*&nbsp;(table[0]&nbsp;+&nbsp;table[2]));&nbsp;}&nbsp;console.log(phi([76,&nbsp;9,&nbsp;4,&nbsp;1]));&nbsp;//&nbsp;&#8594;&nbsp;0.068599434&nbsp;¸ÃÀı×Ó½«¼ÆËã*&#981;*µÄ¹«Ê½¼òµ¥Ö±½ÓµÄ×ª»¯Îª`Javascript`ÖĞµÄº¯Êı¡£`Math.sqrt`ÊÇ`Javascript`±ê×¼»·¾³ÖĞµÄ`Math`¶ÔÏóÌá¹©µÄÇóÆ½·½¸ùµÄº¯Êı¡£ÒòÎªÎÒÃÇµÄÊı¾İ½á¹¹ÖĞ²¢Ã»ÓĞÖ±½Ó´æ´¢ÇóºÍµÄĞĞÓëÁĞ£¬ËùÒÔ±ØĞë¶Ô±í¸ñÖĞµÄÁ½¸öÇøÓòÇóºÍÀ´ÇóÈ¡*n</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; vertical-align:sub; " >1.</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " >*¡£&nbsp;ÑÅ¿Ë±£³Ö¼ÇÂ¼ÈÕ¼ÇÈı¸öÔÂ×óÓÒ¡£Õâ¸ö½á¹ûÊı¾İ¼¯ºÏÔÚÏÂÔØÎÄ¼şÖĞµÄ[±¾ÕÂ´úÂë](code/jacques_journal.js)ÄÚµÄ¿ÉÒÔÕÒµ½£¬±£´æÔÚ`JOURNAL`±äÁ¿ÖĞ¡£&nbsp;´ÓÕâ·İÈÕ¼ÇÎÄ¼şÖĞÌáÈ¡³öÄ³¸öÌØ¶¨ÊÂ¼ş2ĞĞ2ÁĞµÄ±í¸ñ£¬±ØĞëÑ­»·¶ÁÈ¡ËùÓĞ¼ÇÂ¼£¬¼ÆËã³öÓë±äÉíËÉÊóÓĞ¹ØµÄÊÂ¼ş·¢ÉúÁË¶àÉÙ´Î¡£&nbsp;function&nbsp;hasEvent(event,&nbsp;entry)&nbsp;{&nbsp;return&nbsp;entry.events.indexOf(event)&nbsp;!=&nbsp;-1;&nbsp;}&nbsp;function&nbsp;tableFor(event,&nbsp;journal)&nbsp;{&nbsp;var&nbsp;table&nbsp;=&nbsp;[0,&nbsp;0,&nbsp;0,&nbsp;0];&nbsp;for&nbsp;(var&nbsp;i&nbsp;=&nbsp;0;&nbsp;i&nbsp;&#60;&nbsp;journal.length;&nbsp;i++)&nbsp;{&nbsp;var&nbsp;entry&nbsp;=&nbsp;journal[i],&nbsp;index&nbsp;=&nbsp;0;&nbsp;if&nbsp;(hasEvent(event,&nbsp;entry))&nbsp;index&nbsp;+=&nbsp;1;&nbsp;if&nbsp;(entry.squirrel)&nbsp;index&nbsp;+=&nbsp;2;&nbsp;table[index]&nbsp;+=&nbsp;1;&nbsp;}&nbsp;return&nbsp;table;&nbsp;}&nbsp;console.log(tableFor("pizza",&nbsp;JOURNAL));&nbsp;//&nbsp;&#8594;&nbsp;[76,&nbsp;9,&nbsp;4,&nbsp;1]&nbsp;`hasEvenet`º¯Êı²âÊÔÒ»Ìõ¼ÇÂ¼ÖĞÊÇ·ñ°üº¬¸ø¶¨µÄÊÂ¼ş¡£Êı×éµÄ`indexOf`·½·¨½«ÅĞ¶ÏÒ»¸ö¸ø¶¨Öµ(ÔÚµ±Ç°Çé¿öÏÂ£¬Õâ¸ö¸ø¶¨ÖµÎªÊÂ¼şÃû)ÊÇ·ñ´æÔÚÓÚÊı×éÖĞ¡£ËùÒÔÈç¹û`indexOf`·µ»ØµÄ²»Îª`-1`£¬Ôò¸ÃÊÂ¼ş´æÔÚÓÚ¸ÃÌõ¼ÇÂ¼ÖĞ¡£&nbsp;`tableFor`º¯ÊıÖĞµÄÑ­»·ÌåÍ¨¹ıÅĞ¶ÏÖ¸¶¨µÄÊÂ¼şÊÇ·ñ´æÔÚÒÔ¼°ÊÇ·ñÓĞ±ä³ÉËÉÊóÀ´¼ÆËã¹ØÏµ±í¸ñÖĞµÄÄÄ¸öÊıÖµĞèÒª±ä»¯¡£Ñ­»·ÖĞ½«ÏàÓ¦Êı×éÖĞĞèÒª±ä»¯µÄÊıÖµ¼Ó1¡£&nbsp;ÏÖÔÚÎÒÃÇÓĞ¼ÆËã¶ÀÁ¢Ïà¹ØĞÔµÄ¹¤¾ßÁË¡£»¹ÓĞÒ»¼şÒª×öµÄÊÂÇéÊÇÕÒµ½±»¼ÇÂ¼µÄÊÂ¼şÖ®¼äµÄÏà¹ØĞÔ¡£¿´¿´ÊÇ·ñÓĞÈÎºÎÊÂ¼ş±È½ÏÌØ±ğ¡£µ«ÊÇÎÒÃÇÊÇ·ñÒ»¼ÆËã³öÕâĞ©Ïà¹ØĞÔ¾Í´æ´¢ÆğÀ´£¿&nbsp;##¶ÔÏóÓ³Éä&nbsp;Ò»¸ö¿ÉĞĞµÄ·½·¨ÊÇ½«Ã¿¸öÊÂ¼şµÄ¶ÔÏóµÄÃûºÍÖµ´æÔÚ¶ÔÏóÖĞ£¬ÔÙ½«ËùÓĞÕâĞ©¶ÔÏó·ÅÈëÒ»¸öÊı×é¡£µ«ÊÇÕâÑù´¦Àí»áÊ¹µÃ²éÕÒÒ»¸ö¸ø¶¨ÊÂ¼şµÄÏà¹ØĞÔ»ò¶à»òÉÙÓĞĞ©Âé·³£ºÄã±ØĞë±ãÀûÕû¸öÊı×é£¬´Ó¶øÕÒ³ö°üº¬Ö¸¶¨ÊÂ¼şÃûµÄ¶ÔÏó¡£µ±È»£¬ÎÒÃÇ¿ÉÒÔ½«ÕâÒ»²éÕÒ¹ı³ÌĞ´Èëº¯Êı£¬µ«ÊÇÕâÃ´×öÈÔÈ»»áĞèÒªÊéĞ´¸ü¶àµÄ´úÂë£¬¼ÆËã»úÒ²½«»á±ÈÊµ¼ÊĞèÒª×ö³ö¸ü¶àµÄ¼ÆËã¡£&nbsp;Ò»¸ö¸üºÃµÄ·½·¨ÊÇ½«¸÷Ïà¹ØĞÔ´æÈë¶ÔÏó£¬ÏàÓ¦ÊôĞÔµÄÃû³ÆÎª¶ÔÏóµÄÊÂ¼şÀàĞÍ¡£ÕâÑùÎÒÃÇ¾Í¿ÉÒÔÊ¹ÓÃ·½À¨ºÅÀ´´´½¨ºÍ¶ÁÈ¡ÊôĞÔÖµ£¬²¢ÇÒ¿ÉÒÔÊ¹ÓÃ`in`²Ù×÷·ûÀ´¼ì²â¸ø¶¨µÄÊôĞÔÊÇ·ñ´æÔÚ¡£&nbsp;var&nbsp;map&nbsp;=&nbsp;{};&nbsp;function&nbsp;storePhi(event,&nbsp;phi)&nbsp;{&nbsp;map[event]&nbsp;=&nbsp;phi;&nbsp;}&nbsp;storePhi("pizza",&nbsp;0.069);&nbsp;storePhi("touched&nbsp;tree",&nbsp;-0.081);&nbsp;console.log("pizza"&nbsp;in&nbsp;map);&nbsp;//&nbsp;&#8594;&nbsp;true&nbsp;console.log(map["touched&nbsp;tree"]);&nbsp;//&nbsp;&#8594;&nbsp;-0.081&nbsp;Ó³ÉäÊÇ½«Ò»¸ö±ä»¯ÓòÄÚµÄÖµÖ¸(±¾ÀıÖĞÎªÊÂ¼şÃû)ÏòÁíÒ»±ä»¯ÓòÄÚÏàÓ¦µÄÖµ(±¾ÀıÖĞÎªÏà¹ØĞÔ*&#981;*)µÄ·½·¨¡£&nbsp;ÏñÏÖÔÚÕâÑùÊ¹ÓÃ¶ÔÏóÈÔÈ»ÓĞÒ»Ğ©Ç±ÔÚÎÊÌâ£¬ÕâĞ©ÎÊÌâÎÒÃÇ½«ÔÚ[µÚÁùÕÂ](/chapter6.md)ÖĞÌÖÂÛ£¬ÔİÊ±²»ÓÃµ£ĞÄÕâĞ©ÎÊÌâ¡£&nbsp;ÌÈÈôÎÒÃÇĞèÒª¶ÁÈ¡ÒÑ´æ´¢µÄËùÓĞÊÂ¼şµÄÏà¹ØĞÔ¸ÃÈçºÎ²Ù×÷£¿¶ÔÏóÖĞµÄÕâĞ©ÊôĞÔ²»ÏñÊÇÊı×é£¬Ã»ÓĞÌØ¶¨µÄË³Ğò¡£ËùÒÔÎÒÃÇ¾Í²»ÄÜ¹»Ê¹ÓÃ¼òµ¥µÄ`for`Ñ­»·À´ÊµÏÖÕâÒ»²Ù×÷¡£`Javascript`ÖĞÌá¹©ÁË×¨ÃÅÓÃÀ´±éÀú¶ÔÏóÊôĞÔµÄÑ­»·½á¹¹¡£ÕâÒ»Ñ­»·½á¹¹ÓëÆÕÍ¨µÄ`for`ÏàËÆ£¬²»¹ıÓëÆÕÍ¨`for`Ñ­»·µÄÇø±ğÊÇ`in`¡£&nbsp;for&nbsp;(var&nbsp;event&nbsp;in&nbsp;map)&nbsp;console.log("The&nbsp;correlation&nbsp;for&nbsp;'"&nbsp;+&nbsp;event&nbsp;+&nbsp;"'&nbsp;is&nbsp;"&nbsp;+&nbsp;map[event]);&nbsp;//&nbsp;&#8594;&nbsp;The&nbsp;correlation&nbsp;for&nbsp;'pizza'&nbsp;is&nbsp;0.069&nbsp;//&nbsp;&#8594;&nbsp;The&nbsp;correlation&nbsp;for&nbsp;'touched&nbsp;tree'&nbsp;is&nbsp;-0.081&nbsp;##×îºóµÄ·ÖÎö&nbsp;ÎªÁËÕÒµ½Êı¾İ¼¯ºÏÖĞµÄËùÓĞÊÂ¼şÀàĞÍ£¬ÎÒÃÇÖ»Ğè¼òµ¥µØÒÀ´Î´¦Àí¸÷Ìõ¼ÇÂ¼È»ºó±éÀúÃ¿Ìõ¼ÇÂ¼ÖĞµÄÊÂ¼ş¡£´´½¨Ò»¸ö¶ÔÏó`phis`£¬½«ÖÁ½ñµÄËùÓĞÊÂ¼şÀàĞÍµÄÏà¹ØĞÔÏµÊı´æ´¢ÆäÖĞ¡£Ö»ÒªÄ³ÖÖÊÂ¼şÀàĞÍ²»ÔÚ`phis`ÖĞ£¬Ôò¼ÆËã¸ÃÊÂ¼şµÄÏà¹ØĞÔ²¢½«Æä´æÈë`phis`ÖĞ¡£&nbsp;function&nbsp;gatherCorrelations(journal)&nbsp;{&nbsp;var&nbsp;phis&nbsp;=&nbsp;{};&nbsp;for&nbsp;(var&nbsp;entry&nbsp;=&nbsp;0;&nbsp;entry&nbsp;&#60;&nbsp;journal.length;&nbsp;entry++)&nbsp;{&nbsp;var&nbsp;events&nbsp;=&nbsp;journal[entry].events;&nbsp;for&nbsp;(var&nbsp;i&nbsp;=&nbsp;0;&nbsp;i&nbsp;&#60;&nbsp;events.length;&nbsp;i++)&nbsp;{&nbsp;var&nbsp;event&nbsp;=&nbsp;events[i];&nbsp;if&nbsp;(!(event&nbsp;in&nbsp;phis))&nbsp;phis[event]&nbsp;=&nbsp;phi(tableFor(event,&nbsp;journal));&nbsp;}&nbsp;}&nbsp;return&nbsp;phis;&nbsp;}&nbsp;var&nbsp;correlations&nbsp;=&nbsp;gatherCorrelations(JOURNAL);&nbsp;console.log(correlations.pizza);&nbsp;//&nbsp;&#8594;&nbsp;0.068599434&nbsp;È»ÃÇÒ»Æğ¿´¿´½á¹ûÈçºÎ¡£&nbsp;for&nbsp;(var&nbsp;event&nbsp;in&nbsp;correlations)&nbsp;console.log(event&nbsp;+&nbsp;":&nbsp;"&nbsp;+&nbsp;correlations[event]);&nbsp;//&nbsp;&#8594;&nbsp;carrot:&nbsp;0.0140970969&nbsp;//&nbsp;&#8594;&nbsp;exercise:&nbsp;0.0685994341&nbsp;//&nbsp;&#8594;&nbsp;weekend:&nbsp;0.1371988681&nbsp;//&nbsp;&#8594;&nbsp;bread:&nbsp;-0.0757554019&nbsp;//&nbsp;&#8594;&nbsp;pudding:&nbsp;-0.0648203724&nbsp;//&nbsp;and&nbsp;so&nbsp;on...&nbsp;×î¶àµÄÏà¹ØĞÔ¶¼¼¯ÖĞÔÚ0¸½½ü¡£³ÔºúÂÜ²·£¬Ãæ°ü»ò²¼¶¡ºÜÃ÷ÏÔ²»»á´¥·¢ËÉÊó±äÉí¡£¾¡¹ÜÕâĞ©ÊÂÇéÔÚÖÜÄ©¶¼¾­³£·¢Éú¡£ËùÒÔÎÒÃÇ¹ıÂËÒ»ÏÂ½á¹û£¬Ö»ÁôÏÂÏà¹ØĞÔ´óÓÚ0.1»òÕßĞ¡ÓÚ-0.1µÄÊÂ¼ş¡£&nbsp;for&nbsp;(var&nbsp;event&nbsp;in&nbsp;correlations)&nbsp;{&nbsp;var&nbsp;correlation&nbsp;=&nbsp;correlations[event];&nbsp;if&nbsp;(correlation&nbsp;&#62;&nbsp;0.1&nbsp;||&nbsp;correlation&nbsp;&#60;&nbsp;-0.1)&nbsp;console.log(event&nbsp;+&nbsp;":&nbsp;"&nbsp;+&nbsp;correlation);&nbsp;}&nbsp;//&nbsp;&#8594;&nbsp;weekend:&nbsp;0.1371988681&nbsp;//&nbsp;&#8594;&nbsp;brushed&nbsp;teeth:&nbsp;-0.3805211953&nbsp;//&nbsp;&#8594;&nbsp;candy:&nbsp;0.1296407447&nbsp;//&nbsp;&#8594;&nbsp;work:&nbsp;-0.1371988681&nbsp;//&nbsp;&#8594;&nbsp;spaghetti:&nbsp;0.2425356250&nbsp;//&nbsp;&#8594;&nbsp;reading:&nbsp;0.1106828054&nbsp;//&nbsp;&#8594;&nbsp;peanuts:&nbsp;0.5902679812&nbsp;¿´£¡ÓĞÁ½¸öÊÂ¼şµÄÏà¹ØĞÔÃ÷ÏÔ±ÈÆäËûµÄÊÂ¼şµÄÏà¹ØĞÔÒª¸ßºÜ¶à¡£³Ô¼á¹ûÓë±äÉíËÉÊóÓĞ×ÅºÜ´óµÄÕıÏà¹ØĞÔ£¬Ë¢ÑÀÔòÓĞ×ÅºÜ´óµÄ¸ºÏà¹ØĞÔ¡£&nbsp;ÓĞÈ¤°É¡£ÎÒÃÇÀ´³¢ÊÔÒ»Ğ©ÊÂÇé¡£&nbsp;for&nbsp;(var&nbsp;i&nbsp;=&nbsp;0;&nbsp;i&nbsp;&#60;&nbsp;JOURNAL.length;&nbsp;i++)&nbsp;{&nbsp;var&nbsp;entry&nbsp;=&nbsp;JOURNAL[i];&nbsp;if&nbsp;(hasEvent("peanuts",&nbsp;entry)&nbsp;&&&nbsp;!hasEvent("brushed&nbsp;teeth",&nbsp;entry))&nbsp;entry.events.push("peanut&nbsp;teeth");&nbsp;}&nbsp;console.log(phi(tableFor("peanut&nbsp;teeth",&nbsp;JOURNAL)));&nbsp;//&nbsp;&#8594;&nbsp;1&nbsp;ºÃÁË£¬Õâ¾Í¶ÔÁË¡£Èç¹ûÑÅ¿Ë³ÔÁË¼á¹ûÈ´Ã»ÓĞË¢ÑÀ£¬ÔòËû»á±äÉí³ÉËÉÊó¡£Èç¹ûËû²»ÊÇÕâÑùÒ»¸ö²»°®»¤ÑÀ³İÎÀÉúµÄÀÁººµÄ»°£¬ËûÒ²¾Í²»»áÊÜµ½±äÉíµÄ·³ÄÕÁË¡£&nbsp;ÖªµÀÁËÕâ¸öÖ®ºó£¬ÑÅ¿ËÖ»ÒªÍêÈ«²»³Ô¼á¹û£¬¾ÍÄÜ¹»ÍêÈ«°ÚÍÑ±äÉíµÄÀ§ÈÅÁË¡£&nbsp;ÑÅ¿ËÒÑ¾­ºÃÁËºÃ³¤Ò»¶ÎÊ±¼ä¡£²»¹ıÔÚ¼¸ÄêÖ®ºó£¬Ëû¶ªµôÁË×Ô¼ºµÄ¹¤×÷£¬×îÖÕ²»µÃ²»ÔÚÂíÏ·ÍÅ¾ÍÖ°£¬ËûµÄ¹¤×÷¾ÍÊÇÃ¿´Î±íÑİÖ®Ç°ÔÚ×ì°ÍÖĞÌîÂú¼á¹û£¬Íê³É±äÉí£¬±íÑİ*²»¿ÉÖÃĞÅµÄËÉÊóÈË*¡£Ò»Ìì£¬ÒòÎª×ì°ÍÖĞÓĞÌ«¶à¼á¹ûÕâÀïÂ©¶´´æÔÚ£¬ÑÅ¿ËÃ»ÄÜ±ä»ØÎªÈËÀà£¬´ÓÂíÏ·ÍÅÕÊÅñÖĞµÄ·ìÏ¶ÖĞÌø×ß£¬ÏûÊ§ÔÚÁËÉ­ÁÖÖ®ÖĞ£¬Ö®ºó¾ÍÔÙÒ²Ã»ÓĞ³öÏÖ¹ı¡£&nbsp;##Éî¶ÈÑ§Ï°Êı×é&nbsp;ÔÚ±¾ÕÂ½áÊøÖ®Ç°£¬ÎÒÃÇÒªÔÙ¶à½éÉÜÒ»Ğ©Ïà¹Ø¸ÅÄî¡£Ê×ÏÈÎÒÃÇÏÈ½éÉÜÒ»Ğ©³£ÓÃµÄÊı×é·½·¨¡£&nbsp;[±¾ÕÂÖ®Ç°](chapter4.md#array_methods)ÎÒÃÇÑ§Ï°ÁË`push`ºÍ`pop`£¬ÓÃÀ´Ìí¼ÓºÍÉ¾³ıÊı×éÎ²²¿µÄÔªËØ¡£Ïà¶ÔÓ¦µÄÔÚÊı×éÊ×²¿Ìí¼ÓºÍÉ¾³ıÔªËØµÄ·½·¨Îª`unshift`ºÍ`shift`¡£&nbsp;var&nbsp;todoList&nbsp;=&nbsp;[];&nbsp;function&nbsp;rememberTo(task)&nbsp;{&nbsp;todoList.push(task);&nbsp;}&nbsp;function&nbsp;whatIsNext()&nbsp;{&nbsp;return&nbsp;todoList.shift();&nbsp;}&nbsp;function&nbsp;urgentlyRememberTo(task)&nbsp;{&nbsp;todoList.unshift(task);&nbsp;}&nbsp;ÉÏÃæµÄ´úÂëÄÜ¹»¹ÜÀíÈÎÎñÁĞ±í¡£Äã¿ÉÒÔµ÷ÓÃ`rememberTo("eat")`ÔÚÁĞ±íµÄ×îºóÌí¼ÓÈÎÎñ.Èç¹ûĞèÒªÒ»Ğ©ÆäËû²Ù×÷£¬¿ÉÒÔÊ¹ÓÃ`whatIsNext()`À´»ñÈ¡(É¾³ı)ÁĞ±í×îÇ°ÃæµÄÏî¡£`urgentlyRememberTo`¿ÉÒÔÔÚÁĞ±íµÄÊ×²¿Ìí¼ÓÈÎÎñ¶ø²»ÊÇÁĞ±íµÄÎ²²¿¡£&nbsp;`indexOf`»¹ÓĞÒ»¸öĞÖµÜ·½·¨`lastIndexOf`¡£`lastIndexOf`´ÓÊı×éµÄÎ²²¿²éÕÒ¸ø¶¨ÔªËØ£¬¶ø`indexOf`ÊÇ´ÓÍ·¿ªÊ¼¡£&nbsp;console.log([1,&nbsp;2,&nbsp;3,&nbsp;2,&nbsp;1].indexOf(2));&nbsp;//&nbsp;&#8594;&nbsp;1&nbsp;console.log([1,&nbsp;2,&nbsp;3,&nbsp;2,&nbsp;1].lastIndexOf(2));&nbsp;//&nbsp;&#8594;&nbsp;3&nbsp;`indexOf`ºÍ`lastIndexOf`¶¼ÓĞµÚ¶ş¸ö¿ÉÑ¡²ÎÊı£¬¸Ã²ÎÊıÖ¸¶¨¿ªÊ¼²éÕÒµÄÎ»ÖÃ¡£&nbsp;ÁíÒ»¸ö»ù±¾·½·¨ÊÇ`slice`¡£¸Ã·½·¨´«µİÒ»¸ö¿ªÊ¼Ë÷ÒıºÍ½áÊøË÷Òı£¬È»ºó·µ»ØÒ»¸öÊı×é£¬¸ÃÊı×éÖĞÔ­Êı×éµÄÆ¬¶Î(´Ó¿ªÊ¼Ë÷Òıµ½½áÊøË÷Òı)¡£°üÀ¨¿ªÊ¼Ë÷Òı¶ÔÓ¦µÄÔªËØ(µÚÒ»¸ö²ÎÊı)£¬µ«ÊÇ²»°üÀ¨½áÊøË÷Òı¶ÔÓ¦µÄÔªËØ(µÚ¶ş¸ö²ÎÊı)¡£&nbsp;console.log([0,&nbsp;1,&nbsp;2,&nbsp;3,&nbsp;4].slice(2,&nbsp;4));&nbsp;//&nbsp;&#8594;&nbsp;[2,&nbsp;3]&nbsp;console.log([0,&nbsp;1,&nbsp;2,&nbsp;3,&nbsp;4].slice(2));&nbsp;//&nbsp;&#8594;&nbsp;[2,&nbsp;3,&nbsp;4]&nbsp;µ±½áÊøË÷ÒıÃ»ÓĞÖ¸¶¨Ê±£¬`slice`½«·µ»Ø´Ó¿ªÊ¼Ë÷Òı¿ªÊ¼µÄËùÓĞÔªËØ¡£×Ö·û´®Ò²ÓĞ`slice`·½·¨£¬ÓëÊı×éµÄ`slice`·½·¨¹¦ÄÜÏàËÆ¡£&nbsp;`concat`·½·¨¿ÉÒÔÓÃÀ´ºÏ²¢Êı×é£¬¾ÍÏëÊ¹ÓÃ`+`²Ù×÷·ûÀ´Æ´½Ó×Ö·û´®¡£½ÓÏÂÀ´µÄÀı×ÓÖĞ¿ÉÒÔ¿´µ½`concat`ºÍ`splice`µÄÊµ¼ÊÓ¦ÓÃ¡£¸ÃÀı×Ó´«ÈëÒ»¸öÊı×éºÍË÷Òı£¬·µ»ØÒ»¸öĞÂÊı×é£¬ĞÂÊı×éÎªÔ­Êı×éµÄÒ»¸ö¿½±´£¬²¢ÇÒ½«Ö¸¶¨Ë÷ÒıµÄÔªËØÉ¾³ı¡£&nbsp;function&nbsp;remove(array,&nbsp;index)&nbsp;{&nbsp;return&nbsp;array.slice(0,&nbsp;index)&nbsp;.concat(array.slice(index&nbsp;+&nbsp;1));&nbsp;}&nbsp;console.log(remove(["a",&nbsp;"b",&nbsp;"c",&nbsp;"d",&nbsp;"e"],&nbsp;2));&nbsp;//&nbsp;&#8594;&nbsp;["a",&nbsp;"b",&nbsp;"d",&nbsp;"e"]&nbsp;##×Ö·û´®¼°Æä¸÷ÊôĞÔ&nbsp;ÎÒÃÇÖ®Ç°ÒÑ¾­Ñ§Ï°¹ı×Ö·û´®µÄ`length`ºÍ`toUpperCase`ÊôĞÔ¡£Èç¹ûÏëÒªÌí¼ÓÒ»¸öĞÂÊôĞÔ£¬È´²¢²»Ò»¶¨ÉúĞ§¡£&nbsp;var&nbsp;myString&nbsp;=&nbsp;"Fido";&nbsp;myString.myProperty&nbsp;=&nbsp;"value";&nbsp;console.log(myString.myProperty);&nbsp;//&nbsp;&#8594;&nbsp;undefined&nbsp;×Ö·û´®¡¢ÊıÖµºÍ²¼¶ûĞÍµÄÖµ²»ÊÇ¶ÔÏó¡£Èç¹ûÊÔÍ¼¸øÕâĞ©ÖµÌí¼ÓĞÂÊôĞÔ£¬¾¡¹ÜÓïÑÔ±¾Éí²¢²»»áÓĞÊ²Ã´²»Âú£¬µ«ÊÇÕâĞ©ÊôĞÔ²¢Ã»ÓĞ±»Êµ¼Ê´æ´¢¡£ÕâĞ©ÖµÊÇ²»²»¿É±äµÄ¡£&nbsp;²»¹ıÕâĞ©ÀàĞÍµÄÖµÓĞĞ©ÄÚÖÃÊôĞÔ¡£×Ö·û´®ÖµÓĞÒ»ÏµÁĞµÄ·½·¨¡£×îÓĞÓÃµÄ·½·¨¿ÉÄÜ¾ÍÊÇ`slice`ºÍ`indexOf`£¬ÕâÁ½¸ö·½·¨ÓëÊı×éÖĞµÄ·½·¨Í¬Ãû¡£&nbsp;console.log("coconuts".slice(4,&nbsp;7));&nbsp;//&nbsp;&#8594;&nbsp;nut&nbsp;console.log("coconut".indexOf("u"));&nbsp;//&nbsp;&#8594;&nbsp;5&nbsp;×Ö·û´®µÄ`indexOf`·½·¨ºÍÊı×éµÄ`indexOf`·½·¨ÓĞÒ»¶¨µÄÇø±ğ¡£×Ö·û´®µÄ`indexOf`·½·¨¿ÉÒÔ²éÕÒÒ»¸ö´óÓÚÁ½¸ö×Ö·ûµÄ×Ö·û´®£¬¶øÊı×éµÄ`indexOf`·½·¨Ö»ÄÜ²éÕÒÒ»¸öµ¥¶ÀµÄÔªËØ¡£&nbsp;console.log("one&nbsp;two&nbsp;three".indexOf("ee"));&nbsp;//&nbsp;&#8594;&nbsp;11&nbsp;`trim`·½·¨¿ÉÒÔÒÆ³ı×Ö·û´®Ê×Î²µÄ¿Õ°×·û(¿Õ¸ñ£¬»»ĞĞ·û£¬ÖÆ±í·ûµÈ)¡£&nbsp;console.log("&nbsp;okay&nbsp;\n&nbsp;".trim());&nbsp;//&nbsp;&#8594;&nbsp;okay&nbsp;ÒÑ¾­ÖªµÀ×Ö·û´®ÀàĞÍµÄÖµÓĞ`length`ÊôĞÔ¡£¿ÉÒÔÊ¹ÓÃ`charAt`·½·¨¶ÁÈ¡×Ö·û´®ÖĞµÄÒ»¸öµ¥¶ÀµÄ×Ö·û£¬Ò²¿ÉÒÔÏñÊı×éÒ»Ñù£¬¼òµ¥µØÊ¹ÓÃÊı×ÖË÷ÒıÀ´¶ÁÈ¡¡£&nbsp;var&nbsp;string&nbsp;=&nbsp;"abc";&nbsp;console.log(string.length);&nbsp;//&nbsp;&#8594;&nbsp;3&nbsp;console.log(string.charAt(0));&nbsp;//&nbsp;&#8594;&nbsp;a&nbsp;console.log(string[1]);&nbsp;//&nbsp;&#8594;&nbsp;b&nbsp;##²ÎÊı¶ÔÏó`arguments`&nbsp;µ±Ò»¸öº¯Êı±»µ÷ÓÃÊ±£¬ÔËĞĞµÄº¯ÊıÌåÄÚÓĞÒ»¸öÌØ±ğµÄ±äÁ¿`arguments`¡£Õâ¸ö±äÁ¿Ö¸ÏòÒ»¸ö¶ÔÏó¡£¸Ã¶ÔÏó°üº¬´æÈëº¯ÊıµÄËùÓĞ²ÎÊı¡£ÔÚ`Javascript`ÖĞ¿ÉÒÔ´«µİ±ÈÉùÃ÷Ê±µÄ²ÎÊı¸ü¶àµÄ²ÎÊı¡£&nbsp;function&nbsp;noArguments()&nbsp;{}&nbsp;noArguments(1,&nbsp;2,&nbsp;3);&nbsp;//&nbsp;This&nbsp;is&nbsp;okay&nbsp;function&nbsp;threeArguments(a,&nbsp;b,&nbsp;c)&nbsp;{}&nbsp;threeArguments();&nbsp;//&nbsp;And&nbsp;so&nbsp;is&nbsp;this&nbsp;`arguments`¶ÔÏóÖĞµÄ`length`´ú±í´«Èëº¯ÊıµÄ²ÎÊı¸öÊı¡£Ã¿¸ö²ÎÊı¶¼¶ÔÓ¦×Å¶ÔÏóÖĞµÄÒ»¸öÊôĞÔ£¬Èç0£¬1,2¡£&nbsp;Èç¹ûÄã¾õµÃÕâÌıÆğÀ´ÏñÊÇÊı×é£¬ÄÇ¾Í¶ÔÁË£¬ËüÊÇÒ»¸öÀàÊı×é¡£²»¹ı²»ĞÒµØÊÇ£¬¸Ã¶ÔÏó²¢Ã»ÓĞÏìÓ¦Êı×éµÄ·½·¨(±ÈÈç`slice`»ò`indexOf`)£¬ËùÒÔºÜÄÑµ±×÷Ò»¸öÕæÊµÊı×éÀ´ÓÃ¡£&nbsp;function&nbsp;argumentCounter()&nbsp;{&nbsp;console.log("You&nbsp;gave&nbsp;me",&nbsp;arguments.length,&nbsp;"arguments.");&nbsp;}&nbsp;argumentCounter("Straw&nbsp;man",&nbsp;"Tautology",&nbsp;"Ad&nbsp;hominem");&nbsp;//&nbsp;&#8594;&nbsp;You&nbsp;gave&nbsp;me&nbsp;3&nbsp;arguments.&nbsp;ÓĞĞ©º¯Êı¿ÉÒÔ´«ÈëÈÎÒâ¸ö²ÎÊı£¬±ÈÈç`console.log`¡£ÕâĞ©º¯Êı¾ÍÊÇµäĞÍµÄ±éÀúÄÚ²¿`arguments`¶ÔÏóµÄÖµ¡£`arguments`¶ÔÏó¿ÉÒÔÓÃÀ´´´½¨Ò»Ğ©ºÜÓĞÓÃµÄ½Ó¿Ú¡£ÀıÈç£¬»¹¼ÇµÃÎÒÃÇÈçºÎ´´½¨ÑÅ¿ËÈÕÖ¾ÖĞµÄ¸÷Ìõ¼ÇÂ¼°É¡£&nbsp;addEntry(["work",&nbsp;"touched&nbsp;tree",&nbsp;"pizza",&nbsp;"running",&nbsp;"television"],&nbsp;false);&nbsp;Ò»µ©ĞèÒª¾­³£µ÷ÓÃ¸Ã²ÎÊı£¬ÎÒÃÇ¿ÉÒÔ´´½¨Ò»¸ö¸ü¼ÓÒ×ÓÃµÄº¯Êı¡£&nbsp;function&nbsp;addEntry(squirrel)&nbsp;{&nbsp;var&nbsp;entry&nbsp;=&nbsp;{events:&nbsp;[],&nbsp;squirrel:&nbsp;squirrel};&nbsp;for&nbsp;(var&nbsp;i&nbsp;=&nbsp;1;&nbsp;i&nbsp;&#60;&nbsp;arguments.length;&nbsp;i++)&nbsp;entry.events.push(arguments[i]);&nbsp;journal.push(entry);&nbsp;}&nbsp;addEntry(true,&nbsp;"work",&nbsp;"touched&nbsp;tree",&nbsp;"pizza",&nbsp;"running",&nbsp;"television");&nbsp;ÕâÖÖ·½·¨Ê¹ÓÃÕı³£µÄ·½·¨À´¶ÁÈ¡µÚÒ»¸ö²ÎÊı(`squirrel`)£¬È»ºó±éÀúµØ½«`arguments`¶ÔÏóÖĞÆäËû²ÎÊı(´ÓË÷Òı1¿ªÊ¼±éÀú£¬Ìø¹ıµÚÒ»¸ö²ÎÊı)¶¼·ÅÈëÒ»¸öÊı×éÖĞ¡£&nbsp;##`Math`¶ÔÏó&nbsp;ÕıÈçÎÒÃÇËùÖª£¬`Math`¶ÔÏóÊÇÊı×ÖÏà¹ØµÄÊ¹ÓÃº¯ÊıµÄ¼¯ºÏ¡£±ÈÈç`Math.max`(Çó×î´óÖµ)£¬`Math.min`(Çó×îĞ¡Öµ)£¬ÒÔ¼°`Math.sqrt`(ÇóÆ½·½¸ù)¡£&nbsp;`Math`¶ÔÏóÖ»ÊÇ¼òµ¥µÄÓÃ×öÒ»¸öÈİÆ÷£¬À´´æ´¢Ò»¶ÑÏà¹Ø¹¦ÄÜ¡£Ö»ÓĞÒ»¸ö`Maht`¶ÔÏó£¬Ëü¼¸ºõ´Ó²»»áÓÃ×öÒ»¸öµ¥¶ÀµÄÖµ¡£·´¶ø£¬ËüÌá¹©Ò»¸ö*ÃüÃû¿Õ¼ä*£¬ÓÃÀ´¶¨ÒåÒ»Ğ©²»ĞèÒª¶¨ÒåÎªÈ«¾ÖµÄº¯ÊıºÍÖµ¡£&nbsp;Èç¹ûÓĞÌ«¶àµÄÈ«¾Ö±äÁ¿Ôò»áÎÛÈ¾ÃüÃû¿Õ¼ä¡£Ô½¶àµÄÈ«¾Ö±äÁ¿£¬ÔòÔ½¿ÉÄÜ·¢Éú³åÍ»£¬µ¼ÖÂÒâÍâµØĞŞ¸ÄÄ³Ğ©±äÁ¿µÄÖµ¡£±ÈÈç£¬Èç¹ûÄãÏëÒªÔÚ×Ô¼ºµÄÄ³¸ö³ÌĞòÖĞ¶¨Òå`max`¾Í²»ÊÇ²»¿ÉÄÜ¡£ÒòÎª`Javascript`µÄÄÚÖÃ`max`º¯Êı°²È«µØ¶¨ÒåÔÚ`Math`¶ÔÏóÖĞ£¬²»ĞèÒªµ£ĞÄ»á±»ÖØĞ´¡£&nbsp;ÔÚÄã¶¨ÒåÒ»¸ö±äÁ¿£¬²¢ÇÒ¸Ã±äÁ¿ÃûÒÑ¾­±»Ê¹ÓÃ£¬Ğí¶àÓïÑÔ»á×èÖ¹Äã£¬»òÕßÖÁÉÙ»á¸ø³ö¾¯¸æ¡£`Javascript`²¢Ã»ÓĞÕâÑù×ö£¬ËùÒÔÄãÒªµ±ĞÄ¡£&nbsp;Ëµ»Ø`Math`¶ÔÏó¡£Èç¹ûÄãĞèÒª¼ÆËãÈı½Çº¯Êı£¬`Math`¶ÔÏó¿ÉÒÔÌá¹©°ïÖú¡£`Math`¶ÔÏó°üº¬`cos`(ÓàÏÒ)£¬`sin`(ÕıÏÒ)£¬`tan`(ÕıÇĞ)£¬ÒÔ¼°ËüÃÇ¸÷×ÔµÄ·´º¯Êı£¬`acos`£¬`asin`£¬`atan`¡£&nbsp;ÊıÖµ*&#960;*(pi)¿ÉÒÔÍ¨¹ı`Math.PI`»ñÈ¡µ½&#8212;&#8212;¸ÃÖµÖÁÉÙÓë`Javascript`ÖĞµÄÌá¹©µÄÖµ¼«Îª½Ó½ü¡£(ÕâÑùÃüÃû³£Á¿ÖµÔÚËùÓĞ¼ÆËã»úÏµÍ³ÖĞÊÇÒ»¸ö¹ÅÀÏµÄ´«Í³)¡£&nbsp;function&nbsp;randomPointOnCircle(radius)&nbsp;{&nbsp;var&nbsp;angle&nbsp;=&nbsp;Math.random()&nbsp;*&nbsp;2&nbsp;*&nbsp;Math.PI;&nbsp;return&nbsp;{x:&nbsp;radius&nbsp;*&nbsp;Math.cos(angle),&nbsp;y:&nbsp;radius&nbsp;*&nbsp;Math.sin(angle)};&nbsp;}&nbsp;console.log(randomPointOnCircle(2));&nbsp;//&nbsp;&#8594;&nbsp;{x:&nbsp;0.3667,&nbsp;y:&nbsp;1.966}&nbsp;Èç¹ûÄã²»ÊìÏ¤ÕıÏÒºÍÓàÏÒ£¬±ğµ£ĞÄ¡£±¾Êé[µÚÊ®ÈıÕÂ](chapter13.md#sin_cos)»á½²ÊöÈçºÎÊ¹ÓÃ¡£&nbsp;ÉÏÀıÖĞÊ¹ÓÃµ½ÁË`Math.random`¡£µ÷ÓÃÕâÒ»º¯Êı½«»á·µ»Ø[0,1)Ö®¼äµÄÎ±Ëæ»úÊı¡£&nbsp;console.log(Math.random());&nbsp;//&nbsp;&#8594;&nbsp;0.36993729369714856&nbsp;console.log(Math.random());&nbsp;//&nbsp;&#8594;&nbsp;0.727367032552138&nbsp;console.log(Math.random());&nbsp;//&nbsp;&#8594;&nbsp;0.40180766698904335&nbsp;¾¡¹Ü¼ÆËã»úÊÇÈ·¶¨ĞÍ»úÆ÷&#8212;&#8212;Ö»ÒªÄã¸ø³öÕıÈ·µÄÊäÈë£¬¼ÆËã»ú½«Ö´ĞĞÏàÍ¬µÄ¹ı³Ì&#8212;&#8212;µ«ÊÇ¼ÆËã»úÒ²ÊÇ¿ÉÒÔ²úÉúËæ»úÊıµÄ¡£ÎªÁË×öµ½ÕâÒ»µã£¬¼ÆËã»úÔÚÄÚ´æÖĞ±£´æÒ»¸öÊıÖµ(»òÕßÒ»¶ÑÊı×Ö)¡£Ã¿µ±ĞèÒª²úÉúÒ»¸öËæ»úÊıÊ±£¬ËüÔÚÄÚ´æÖĞÖ´ĞĞÒ»Ğ©¸´ÔÓµÄÈ·¶¨ĞÔ¼ÆËã£¬²¢ÇÒ·µ»ØÕâĞ©¼ÆËã½á¹ûµÄ²¿·ÖÖµ¡£¼ÆËã»úÔÚÓÃÕâ¸ö½á¹ûÀ´¸Ä±äËüÖ®Ç°´æÓĞµÄÄÚ²¿Öµ£¬´Ó¶øÏÂÒ»¸öËæ»úÊıµÄ²úÉú½«»á±äµÃ²»Í¬¡£&nbsp;Èç¹ûÎÒÃÇÏëÒªµÃµ½Ò»¸öÕæÕıµÄËæ»úÊı¶ø²»ÊÇÎ±Ëæ»úÊı£¬ÎÒÃÇ¿ÉÒÔÔÚ`Math.random`µÄ¼ÆËã½á¹ûÉÏÊ¹ÓÃ`Math.floor`(¸Ã·½·¨»á½«·ÇÕûÊıÖ±½ÓÈ¡Õû£¬Ê¡ÂÔµôĞ¡Êı²¿·Ö)¡£&nbsp;console.log(Math.floor(Math.random()&nbsp;*&nbsp;10));&nbsp;//&nbsp;&#8594;&nbsp;2&nbsp;½²Ò»¸öËæ»úÊı³ËÒÔ10£¬ÎÒÃÇ»áµÃµ½Ò»¸ö´óÓÚµÈÓÚ0£¬Ğ¡ÓÚ10µÄÊı¡£ÒòÎª`Math.floor`ÏòÏÂÇóÕû£¬¸Ã±í´ïÊ½½«»áµÈ¸ÅÂÊµÄµÃ³ö0µ½9Ö®¼äµÄÈÎÒ»Êı×Ö¡£&nbsp;`Math`¶ÔÏó»¹ÓĞº¯Êı`Math.ceil`("ceiling"µÄËõĞ´£¬±íÊ¾ÏòÉÏÇóÕû)ºÍ`Math.round`(¾Í½üÇóÕû)¡£&nbsp;##±¾ÕÂĞ¡½á&nbsp;¶ÔÏóºÍÊı×é(Êı×éÒ²ÊÇ¶ÔÏóµÄÒ»ÖÖÌØÀı)Ìá¹©ÁË½«Ò»×éÖµÕûºÏÎªÒ»¸öÖµµÄ·½·¨¡£µ¥´¿´Ó¸ÅÄîÉÏÀ´Àí½â£¬ÕâÑù¿ÉÒÔÔÊĞíÎÒÃÇ½«Ò»ÏµÁĞÏà¹ØµÄÊÂÇé·ÅÔÚÒ»¸ö´ü×ÓÖĞ£¬È»ºóÎ§ÈÆÕâ¸ö´ü×Ó×ö´¦Àí£¬¶ø²»ĞèÒªÕÆÎÕÃ¿Ò»¸öµ¥¶ÀµÄÊÂÇé¡£&nbsp;`Javascript`ÖĞ´ó²¿·ÖµÄÖµ´æÔÚÊôĞÔ£¬³ıÁË`null`ºÍ`undefined`Ö®Íâ¡£ÊôĞÔÖµ¿ÉÒÔÍ¨¹ı`value.propName`»òÕß`value["propName"]`À´·ÃÎÊ¡£¶ÔÏóÇãÏòÓÚÊ¹ÓÃ¶¨ÒåÊôĞÔ£¬À´´æ´¢Ò»Ğ©ÁĞ¹Ì¶¨µÄ¿É¶à¿ÉÉÙµÄÊôĞÔÖµ¡£ÁíÒ»·½Ãæ£¬Êı×éÍ¨³£°üº¬²»Í¬µÄÊı×Ö±àºÅ(´Ó0¿ªÊ¼)£¬²¢½«Æä×÷ÎªÊôĞÔÃû¡£&nbsp;Êı×éÖĞÓĞÒ»Ğ©ÒÑ¾­ÃüÃûºÃµÄÊôĞÔ£¬±ÈÈç`length`ºÍÒ»ÏµÁĞµÄ·½·¨¡£·½·¨¼´Îªº¯Êı£¬Í¨³£´æ´¢ÔÚÊôĞÔµÄÊôĞÔÖµÖĞ¡£&nbsp;¶ÔÏóÒ²¿ÉÒÔ¿´×÷ÊÇÓ³Éä£¬½«Ãû×ÖÓëÖµÁ¬½ÓÔÚÒ»Æğ¡£`in`²Ù×÷·ûÄÜ¹»ÅĞ¶Ï¶ÔÏóÖĞÊÇ·ñ¸ø¶¨Ãû×ÖµÄÊôĞÔ¡£Ò²¿ÉÒÔÓÃÔÚ`for`Ñ­»·(`for&nbsp;(var&nbsp;name&nbsp;in&nbsp;object)`)ÖĞ±éÀú¶ÔÏóµÄËùÓĞÊôĞÔ.&nbsp;##Á·Ï°&nbsp;###Á¬ĞøÊı×ÖÇóºÍ&nbsp;±¾ÊéµÄ[ÒıÑÔ](README.md)ÔøÖ®³õ&nbsp;</span><span style="mso-spacerun:'yes'; font-family:ËÎÌå; font-size:12.0000pt; mso-font-kerning:0.0000pt; " ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
+æ•°ç»„ä¸­çš„å…ƒç´ éƒ½æ˜¯è¢«å­˜å‚¨åœ¨å±æ€§ä¸­çš„ã€‚å› ä¸ºè¿™äº›å±æ€§çš„åå­—éƒ½æ˜¯æ•°å­—å¹¶ä¸”æˆ‘ä»¬ç»å¸¸éœ€è¦é€šè¿‡å˜é‡æ¥è·å–è¿™äº›å±æ€§åï¼Œæ‰€ä»¥æˆ‘ä»¬å¿…é¡»ä½¿ç”¨æ–¹æ‹¬å·æ¥è®¿é—®æ•°ç»„ä¸­çš„å…ƒç´ ã€‚æ•°ç»„çš„`length`å±æ€§è¡¨æ˜ä¸€ä¸ªæ•°ç»„ä¸­åŒ…å«å¤šå°‘å…ƒç´ ã€‚è¿™ä¸€å±æ€§åæ˜¯åˆæ³•å˜é‡åï¼Œæˆ‘ä»¬ä¹Ÿäº‹å…ˆçŸ¥é“ï¼Œæ‰€ä»¥æˆ‘ä»¬ç»å¸¸ä½¿ç”¨`array.length`æ¥è·å–ä¸€ä¸ªæ•°ç»„çš„é•¿åº¦ï¼Œå¹¶ä¸”è¿™ä¹Ÿæ¯”`array["length"}`æ›´å®¹æ˜“ä¹¦å†™ã€‚
+
+##æ–¹æ³•
+
+å­—ç¬¦ä¸²(`string`)å’Œæ•°ç»„(`array`)é™¤äº†`length`å±æ€§ä¹‹å¤–ï¼Œéƒ½è¿˜æœ‰ä¸€ç³»åˆ—å€¼ä¸ºå‡½æ•°çš„å±æ€§ã€‚
+
+	var doh = "Doh";
+	console.log(typeof doh.toUpperCase);
+	// â†’ function
+	console.log(doh.toUpperCase());
+	// â†’ DOH
+
+æ¯ä¸ªå­—ç¬¦ä¸²éƒ½æœ‰ä¸€ä¸ª`toUpperCase`å±æ€§ã€‚å½“è°ƒç”¨è¿™ä¸€å±æ€§æ—¶ï¼Œå°†è¿”å›åŸæœ¬å­—ç¬¦ä¸²çš„ä¸€ä¸ªæ‹·è´ï¼Œè¿”å›çš„å­—ç¬¦ä¸²ä¸­å°†åŸå­—ç¬¦ä¸²ä¸­çš„æ‰€æœ‰å­—æ¯éƒ½è½¬åŒ–ä¸ºå¤§å†™å­—æ¯ã€‚åŒæ ·çš„å­—ç¬¦ä¸²ä¸­è¿˜æœ‰ä¸€ä¸ª`toLowerCase`å±æ€§ã€‚ä»å­—é¢æ„æ€åº”è¯¥å°±èƒ½çœ‹å‡ºå®ƒçš„ä½œç”¨ã€‚
+
+æœ‰è¶£çš„æ˜¯ï¼Œå³ä½¿è°ƒç”¨`toUpperCase`æ–¹æ³•æ—¶ä¸ä¼ å…¥ä»»ä½•å‚æ•°ï¼Œå‡½æ•°æ€»èƒ½è·å–åˆ°å­—ç¬¦ä¸²`Doh`ï¼Œè¿™ä¸ªå€¼å°±æ˜¯æˆ‘ä»¬è°ƒç”¨çš„å±æ€§æ‰€å±çš„å€¼ã€‚è‡³äºè¿™ä¸€æƒ…å†µåˆ°åº•æ€ä¹ˆå›äº‹ï¼Œæˆ‘ä»¬å°†åœ¨[ç¬¬å…­ç« ](/chapter6.md)è¿›è¡Œæè¿°ã€‚
+
+å½“å±æ€§çš„å€¼ä¸ºå‡½æ•°æ—¶ï¼Œæˆ‘ä»¬é€šå¸¸ç§°è¿™äº›å±æ€§ä¸ºæ‰€å±å€¼çš„`æ–¹æ³•`(method)ã€‚å¦‚ä¹‹å‰æ‰€è¯´ï¼Œâ€œ`toUpperCase`æ˜¯å­—ç¬¦ä¸²çš„ä¸€ä¸ªæ–¹æ³•â€ã€‚
+
+<p id="array_methods">ä¸‹é¢çš„ä¾‹å­å±•ç¤ºäº†æ•°ç»„å¯¹è±¡åŒ…å«çš„ä¸€äº›æ–¹æ³•ï¼š</p>
+
+	var mack = [];
+	mack.push("Mack");
+	mack.push("the", "Knife");
+	console.log(mack);
+	// â†’ ["Mack", "the", "Knife"]
+	console.log(mack.join(" "));
+	// â†’ Mack the Knife
+	console.log(mack.pop());
+	// â†’ Knife
+	console.log(mack);
+	// â†’ ["Mack", "the"]
+
+`push`æ–¹æ³•èƒ½å¤Ÿç”¨æ¥å‘æ•°ç»„çš„æœ«å°¾æ·»åŠ å€¼ï¼ˆå¯ä»¥æ˜¯ä¸€ä¸ªæˆ–è€…å¤šä¸ªï¼‰ã€‚`pop`æ–¹æ³•çš„åŠŸèƒ½æ°å¥½ç›¸åï¼šå®ƒä¼šç§»é™¤æ•°ç»„æœ«å°¾çš„ä¸€ä¸ªå€¼å¹¶ä¸”è¿”å›è¿™ä¸ªå€¼ã€‚ä¸€ä¸ªå­—ç¬¦ä¸²æ•°ç»„èƒ½å¤Ÿé€šè¿‡`join`æ–¹æ³•æ‰å¹³åŒ–ä¸ºä¸€ä¸ªå•ç‹¬çš„å­—ç¬¦ä¸²ã€‚`join`ä¸­ä¼ å…¥çš„å‚æ•°ç”¨æ¥å°†æ•°ç»„ä¸­çš„å„å…ƒç´ è¿æ¥èµ·æ¥ã€‚
+
+##å¯¹è±¡
+
+å›åˆ°ä¹‹å‰æåˆ°çš„æ¾é¼ äººã€‚æ¯å¤©çš„æ—¥å¿—è®°å½•å¯ä»¥ç”¨ä¸€ä¸ªæ•°ç»„æ¥æè¿°ã€‚ä½†æ˜¯æ¯æ¡è®°å½•å¹¶ä¸åªæ˜¯åŒ…å«æ•°å­—æˆ–å­—ç¬¦ä¸²â€”â€”æ¯æ¡è®°å½•éœ€è¦å­˜å‚¨ä¸€ç³»åˆ—çš„æ´»åŠ¨ä»¥åŠä¸€ä¸ªè¡¨ç¤ºé›…å…‹æ˜¯å¦å˜ä¸ºæ¾é¼ çš„å¸ƒå°”å€¼ã€‚ç†æƒ³çš„æƒ…å†µæ˜¯ï¼Œæˆ‘ä»¬èƒ½å¤Ÿå°†è¿™äº›å€¼ç»Ÿä¸€æˆä¸€ä¸ªå•ç‹¬çš„å€¼ï¼Œç„¶åå†å°†è¿™äº›ç»Ÿä¸€å¥½çš„å€¼æ”¾å…¥æ—¥å¿—è®°å½•æ•°ç»„ä¸­ã€‚
+
+å¯¹è±¡ç±»å‹(`object`)çš„å€¼æ˜¯ä¸“é—¨çš„å±æ€§çš„é›†åˆã€‚æˆ‘ä»¬å¯ä»¥éšæ„æ·»åŠ æˆ–åˆ é™¤è¿™äº›å±æ€§ã€‚ä¸€ç§åˆ›å»ºå¯¹è±¡çš„æ–¹æ³•æ˜¯ä½¿ç”¨å¤§æ‹¬å·æ ‡è®°æ³•ã€‚
+
+	var day1 = {
+	  squirrel: false,
+	  events: ["work", "touched tree", "pizza", "running",
+	           "television"]
+	};
+	console.log(day1.squirrel);
+	// â†’ false
+	console.log(day1.wolf);
+	// â†’ undefined
+	day1.wolf = false;
+	console.log(day1.wolf);
+	// â†’ false
+
+åœ¨å¤§æ‹¬å·ä¸­ï¼ŒåŒ…å«ç€ä¸€ç³»åˆ—å±æ€§å€¼ï¼Œå„å±æ€§å€¼ä¹‹é—´æœ‰åˆ†å¥½(`;`)éš”å¼€ã€‚æ¯ä¸€ä¸ªå±æ€§éƒ½åå­—åé¢ç´§è·Ÿä¸€ä¸ªåˆ†å·(`:`)ï¼Œå†åé¢æ¥ç€ä¸€ä¸ªè¡¨è¾¾å¼ï¼Œè¿™ä¸ªè¡¨è¾¾å¼çš„å€¼å°±æ˜¯ç›¸åº”å±æ€§çš„å€¼ã€‚ç©ºæ ¼å’Œæ¢è¡Œç¬¦æ˜¯æ— æ•ˆçš„ã€‚å¯¹è±¡è·¨å¤šè¡Œï¼Œå¦‚ä¸Šä¾‹ä¸€æ ·ç¼©è¿›æ’åˆ—èƒ½å¤Ÿæé«˜ä»£ç çš„å¯è¯»æ€§ã€‚å¦‚æœå±æ€§çš„åå­—ä¸æ˜¯ä¸€ä¸ªåˆæ³•çš„å˜é‡åæˆ–è€…æ˜¯åˆæ³•çš„æ•°å­—åˆ™å¿…é¡»ä½¿ç”¨å¼•å·ã€‚
+
+	var descriptions = {
+	  work: "Went to work",
+	  "touched tree": "Touched a tree"
+	};
+
+è¿™å°±æ„å‘³ç€å¤§æ‹¬å·åœ¨`Javascript`ä¸­æœ‰*ä¸¤ç§å«ä¹‰*ã€‚å½“å¤§æ‹¬å·å‡ºç°åœ¨è¯­å¥çš„é¦–éƒ¨æ—¶ï¼Œç”¨æ¥å£°æ˜ä¸€ä¸ªä»£ç å—ã€‚å½“å¤§æ‹¬å·å‡ºç°åœ¨å…¶ä»–ä½ç½®æ—¶ï¼Œåˆ™ç”¨æ¥æè¿°ä¸€ä¸ªå¯¹è±¡ã€‚å¹¸è¿çš„æ˜¯ï¼Œåœ¨ä¸€æ¡è¯­å¥å¼€å§‹ä½¿ç”¨å¤§æ‹¬å·å®šä¹‰å¯¹è±¡å‡ ä¹æ²¡æœ‰ç”¨å¤„ï¼Œåœ¨å…¸å‹çš„ç¨‹åºä¸­ï¼Œè¿™ä¸¤ç§ç”¨æ³•å¹¶æ²¡æœ‰ä»€ä¹ˆçŸ›ç›¾ä¹‹å¤„ã€‚
+
+è¯»å–ä¸€ä¸ªå¹¶ä¸å­˜åœ¨çš„å±æ€§å°†å¾—åˆ°`undefined`ã€‚åœ¨ä¹‹å‰çš„ä¾‹å­ä¸­ï¼Œè¯»å–`wolf`è¿™ä¸ªå±æ€§æ—¶å°±æ˜¯è¿™ç§æƒ…å†µã€‚
+
+å¯ä»¥ä½¿ç”¨èµ‹å€¼(`=`)æ“ä½œç¬¦ç»™ä¸€ä¸ªå±æ€§è¡¨è¾¾å¼èµ‹å€¼ã€‚å¦‚æœè¯¥å±æ€§å·²å­˜åœ¨ï¼Œåˆ™å°†æ–°çš„å€¼æ›¿æ¢å±æ€§åŸæœ¬çš„å€¼ã€‚å¦‚æœè¯¥å±æ€§ä¸å­˜åœ¨ï¼Œåˆ™åœ¨è¯¥å¯¹è±¡ä¸Šåˆ›å»ºä¸€ä¸ªæ–°å±æ€§ï¼Œå¹¶å°†å€¼èµ‹äºˆè¯¥æ–°å±æ€§ã€‚
+
+ç®€å•èµ·è§ï¼Œå‚ç…§å˜é‡ç»‘å®šçš„è§¦è§’æ¨¡å‹â€”â€”å±æ€§ç»‘å®šä¹Ÿæ˜¯ç±»ä¼¼çš„ã€‚è¿™äº›è§¦æ‰‹æŠ“ç€ä¸€äº›å€¼ï¼Œä½†æ˜¯å…¶ä»–å˜é‡ä»¥åŠå±æ€§å¯èƒ½ä¹ŸæŒæœ‰è¿™äº›ç›¸åŒçš„å€¼ã€‚ä½ å¯ä»¥æŠŠå¯¹è±¡æƒ³è±¡ä¸ºç« é±¼ï¼Œè¿™äº›ç« é±¼æœ‰ç€ä»»æ„æ¡çš„è§¦æ‰‹ï¼Œæ¯ä¸€ä¸ªè§¦æ‰‹ä¸Šé¢éƒ½æ ‡ç€ä¸€ä¸ªåå­—ã€‚
+
+![ç« é±¼å¯¹è±¡](Figure/chapter4/4_2.jpg)
+
+`delete`æ“ä½œç¬¦èƒ½å¤Ÿä»è¿™æ ·ä¸€åªç« é±¼èº«ä¸Šç æ‰ä¸€æ¡è§¦æ‰‹ã€‚`delete`æ“ä½œç¬¦æ˜¯ä¸€å…ƒæ“ä½œç¬¦ã€‚`delete`åé¢ç´§è·Ÿå±æ€§è®¿é—®è¡¨è¾¾å¼ï¼Œå°†ç§»é™¤è¯¥å¯¹è±¡æŒ‡å®šçš„å±æ€§ã€‚è¯¥æ“ä½œç¬¦åŠŸèƒ½å¦‚ä¸Šï¼Œä¸è¿‡å´å¹¶ä¸å¸¸ç”¨ã€‚
+
+	var anObject = {left: 1, right: 2};
+	console.log(anObject.left);
+	// â†’ 1
+	delete anObject.left;
+	console.log(anObject.left);
+	// â†’ undefined
+	console.log("left" in anObject);
+	// â†’ false
+	console.log("right" in anObject);
+	// â†’ true
+
+`in`æ“ä½œç¬¦ä¸ºäºŒå…ƒæ“ä½œç¬¦ï¼Œå·¦ä¾§ä¸ºå±æ€§å(å­—ç¬¦ä¸²)ï¼Œå³ä¾§ä¸ºå¯¹è±¡ã€‚ä½¿ç”¨`in`æ“ä½œç¬¦ä¼šè¿”å›ä¸€ä¸ªå¸ƒå°”å€¼ï¼Œè¿™ä¸ªå¸ƒå°”å€¼è¡¨æ˜è¯¥å¯¹è±¡ä¸­æ˜¯å¦å­˜åœ¨è¯¥å±æ€§ã€‚å°†ä¸€ä¸ªå¯¹è±¡çš„å±æ€§å€¼è®¾ä¸º`undefined`ä¸ä½¿ç”¨`delete`æ“ä½œç¬¦åˆ é™¤è¯¥å±æ€§æ˜¯å­˜åœ¨åŒºåˆ«çš„ã€‚åœ¨ç¬¬ä¸€ç§æƒ…å†µä¸‹ï¼Œè¯¥å¯¹è±¡ä¸­ä»ç„¶å­˜åœ¨è¯¥å±æ€§(åªä¸è¿‡è¯¥å±æ€§æ²¡æœ‰æœ‰æ„ä¹‰çš„å€¼)ï¼Œè€Œç¬¬äºŒç§æƒ…å†µï¼Œè¯¥å±æ€§å°†ä¸å†å­˜åœ¨äºå¯¹è±¡ä¹‹ä¸­ï¼Œä½¿ç”¨	`in`æ“ä½œç¬¦å°†å¾—åˆ°`false`ã€‚
+
+æ•°ç»„ä»…ä»…æ˜¯ä¸€ç§ç‰¹æ®Šçš„å¯¹è±¡ï¼Œç”¨æ¥å­˜å‚¨æœ‰åºå€¼ã€‚`typeof [1, 2]`çš„è¿”å›å€¼å³ä¸º`"object"`ã€‚å¯ä»¥å°†æ•°ç»„çœ‹æˆä¸€ä¸ªé•¿é•¿çš„æ‰å¹³çš„ç« é±¼ï¼Œç« é±¼çš„è§¦æ‰‹ä¸Šæ ‡ç€æ•°å­—ï¼Œå¹¶æ•´é½åœ°æ’åˆ—åœ¨ä¸€è¡Œã€‚
+
+![ç« é±¼æ•°ç»„](Figure/chapter4/4_3.jpg)
+
+é‚£ä¹ˆæ¥ä¸‹æ¥ï¼Œæˆ‘ä»¬å¯ä»¥å°†é›…å…‹çš„æ—¥è®°çœ‹æˆä¸€ä¸ªæœ‰å¯¹è±¡ç»„æˆçš„æ•°ç»„ã€‚
+
+	var journal = [
+	  {events: ["work", "touched tree", "pizza",
+	            "running", "television"],
+	   squirrel: false},
+	  {events: ["work", "ice cream", "cauliflower",
+	            "lasagna", "touched tree", "brushed teeth"],
+	   squirrel: false},
+	  {events: ["weekend", "cycling", "break",
+	            "peanuts", "beer"],
+	   squirrel: true},
+	  /* and so on... */
+	];
+
+##æ˜“å˜æ€§
+
+æ¥ä¸‹æ¥æˆ‘ä»¬å°†å­¦åˆ°ä¸€ä¸ªå®é™…ç¼–ç¨‹çš„çœŸç†ã€‚ä¸è¿‡é¦–å…ˆæˆ‘ä»¬è¿˜æœ‰æœ€åä¸€æ¡ç†è®ºéœ€è¦ç†è§£ã€‚
+
+ä¹‹å‰æˆ‘ä»¬æœ‰å­¦ä¹ åˆ°ï¼Œå¯¹è±¡çš„å€¼å¯ä»¥è¢«æ”¹å˜ã€‚å€¼çš„ç±»å‹åœ¨ä¹‹å‰çš„ç« èŠ‚ä¸­å·²ç»è®¨è®ºè¿‡ï¼Œå¦‚æ•°å€¼(`number`)ã€å­—ç¬¦ä¸²(`string`)ä»¥åŠå¸ƒå°”å€¼(`boolean`)ã€‚è¿™äº›ç±»å‹çš„å€¼éƒ½æ˜¯*ä¸å¯å˜çš„*â€”â€”æƒ³è¦æ”¹å˜ä¸€ä¸ªè¿™äº›ç±»å‹å·²å­˜åœ¨çš„å€¼æ˜¯ä¸å¯èƒ½çš„ã€‚å¯ä»¥ç»“åˆå®ƒä»¬ï¼Œæˆ–è€…ä»ä¸­è¡ç”Ÿå‡ºå…¶ä»–å€¼ã€‚ä½†æ˜¯å½“ä½ ä½¿ç”¨ä¸€ä¸ªæ˜ç¡®çš„å­—ç¬¦ä¸²å€¼æ—¶ï¼Œè¿™ä¸ªå€¼å°†ä¸€ç›´ä¿æŒä¸å˜ã€‚å­—ç¬¦ä¸²ä¸­åŒ…å«çš„æ–‡æœ¬æ˜¯ä¸å¯å˜çš„ã€‚å¦‚æœä½ æœ‰ä¸€ä¸ªå†…å®¹ä¸º`"cat"`çš„å­—ç¬¦ä¸²ï¼Œä½ ä¸å¯èƒ½ä½¿ç”¨å…¶ä»–ä»£ç æ¥æ”¹å˜è¯¥å­—ç¬¦ä¸²ä¸­çš„ä¸€ä¸ªå­—ç¬¦æ¥ä½¿å¾—å­—ç¬¦ä¸²çš„å†…å®¹ä¸º`"rat"`ã€‚
+
+åœ¨å¦ä¸€æ–¹é¢ï¼Œå¯¹è±¡å¯ä»¥é€šè¿‡æ”¹å˜è‡ªèº«å±æ€§çš„å€¼ï¼Œæ¥æ”¹å˜å¯¹è±¡å€¼çš„å†…å®¹ã€‚
+
+å½“æˆ‘ä»¬æœ‰ä¸¤ä¸ªæ•°å€¼ï¼Œ120å’Œ120ï¼Œæˆ‘ä»¬å¯ä»¥è®¤ä¸ºä»–ä»¬æ˜¯å®Œå…¨ç›¸åŒçš„æ•°å€¼ã€‚ä¸ç®¡ä»–ä»¬æ˜¯å¦æŒ‡å‘ç›¸åŒçš„ç‰©ç†å†…å­˜ã€‚ä½†æ˜¯å¯¹äºå¯¹è±¡è€Œè¨€ï¼Œä¸¤ä¸ªæŒ‡å‘ç›¸åŒçš„å¯¹è±¡å’Œä¸¤ä¸ªåŒ…å«ç›¸åŒå±æ€§çš„ä¸åŒå¯¹è±¡æ˜¯ä¸åŒçš„ã€‚æ€è€ƒä¸€ä¸‹å¦‚ä¸‹ä»£ç ï¼š
+
+	var object1 = {value: 10};
+	var object2 = object1;
+	var object3 = {value: 10};
+
+	console.log(object1 == object2);
+	// â†’ true
+	console.log(object1 == object3);
+	// â†’ false
+
+	object1.value = 15;
+	console.log(object2.value);
+	// â†’ 15
+	console.log(object3.value);
+	// â†’ 10
+
+å˜é‡`object1`å’Œå˜é‡`object2`æŒ‡å‘ç›¸åŒçš„å¯¹è±¡ï¼Œæ‰€ä»¥æ”¹å˜`object1`çš„å€¼ï¼Œ`object2`çš„å€¼ä¹Ÿä¼šå‘ç”Ÿæ”¹å˜ã€‚æ¯”è¾ƒä¸åŒçš„å¯¹è±¡å°†è¿”å›`false`ï¼Œå³ä½¿å®ƒä»¬æœ‰ç€ç›¸åŒçš„å†…å®¹ã€‚`Javascript`ä¸­æ²¡æœ‰å†…ç½®æ·±åº¦æ¯”è¾ƒçš„æ“ä½œ(æ·±åº¦æ¯”è¾ƒå¯¹è±¡çš„å†…å®¹)ï¼Œä¸è¿‡å¯ä»¥è‡ªå·±å®ç°(æœ¬ç« ä¹‹åçš„ä¸€ä¸ªç»ƒä¹ ä¹Ÿä¼šå®ç°ç›¸å…³çš„åŠŸèƒ½)ã€‚
+
+##å…½åŒ–äººçš„æ—¥å¿—
+
+äºæ˜¯ï¼Œé›…å…‹å¼€å§‹å¯åŠ¨ä»–çš„`Javascript`è§£é‡Šå™¨ï¼Œæ­å»ºä¿å­˜æ—¥å¿—æ‰€éœ€çš„ç¯å¢ƒã€‚
+
+	var journal = [];
+
+	function addEntry(events, didITurnIntoASquirrel) {
+	  journal.push({
+	    events: events,
+	    squirrel: didITurnIntoASquirrel
+	  });
+	}
+
+äºæ˜¯ï¼Œæ¯å¤©æ™šä¸Šåç‚¹ç”šè‡³æœ‰æ—¶æ˜¯ç¬¬äºŒå¤©æ—©ä¸Šï¼Œå½“é›…å…‹ä»ä»–è‡ªå·±çš„ä¹¦æ¶é¡¶éƒ¨åâ€”â€”ä»–ä¾¿å¼€å§‹è®°å½•ä¸€å¤©çš„äº‹æƒ…ã€‚
+
+	addEntry(["work", "touched tree", "pizza", "running",
+	          "television"], false);
+	addEntry(["work", "ice cream", "cauliflower", "lasagna",
+	          "touched tree", "brushed teeth"], false);
+	addEntry(["weekend", "cycling", "break", "peanuts",
+	          "beer"], true);
+
+ä¸€æ—¦é›…å…‹æ”¶é›†åˆ°è¶³å¤Ÿçš„æ•°æ®è®°å½•ï¼Œä»–å°±å¯ä»¥å°è¯•æ¨æ–­ä»–å˜æˆæ¾é¼ å’Œæ¯å¤©å‘ç”Ÿçš„äº‹ä»¶ä¹‹å‰çš„å…³è”ï¼Œä»è€Œèƒ½å¤Ÿä»è¿™äº›å…³è”ä¹‹ä¸­äº†è§£åˆ°ä¸€äº›æœ‰ç”¨çš„ä¸œè¥¿ã€‚
+
+*å…³è”*æ˜¯å˜é‡ä¹‹é—´ä¾èµ–æ€§çš„åº¦é‡(è¿™é‡Œæ‰€è¯´çš„â€œå˜é‡â€æ˜¯ä»ç»Ÿè®¡å­¦è§’åº¦çš„æ¥è¯´çš„æ¦‚å¿µï¼Œè€Œä¸æ˜¯`Javascript`çš„æ¦‚å¿µ)ã€‚è¿™ä¸€å…³è”é€šå¸¸ä¸ºå€¼ä¸º[-1,1]çš„ç³»æ•°ã€‚ç³»æ•°ä¸º0æ—¶ï¼Œè¡¨æ˜å˜é‡ä¹‹é—´æ²¡æœ‰å…³è”ï¼›ç³»æ•°ä¸º1æ—¶ï¼Œè¡¨æ˜ä¸¤å˜é‡ä¹‹é—´å®Œå…¨ç›¸å…³ï¼›ç›¸åº”åœ°ç³»æ•°ä¸º-1æ—¶ï¼Œåˆ™å®¹æ˜“æƒ³åˆ°ã€‚ç³»æ•°ä¸º-1æ—¶ï¼ŒåŒæ ·æ„å‘³ç€ä¸¤ä¸ªå˜é‡å®Œå…¨ç›¸å…³ï¼Œåªä¸è¿‡æ˜¯è´Ÿç›¸å…³â€”â€”å½“å…¶ä¸­ä¸€ä¸ªäººä¸ºçœŸæ—¶ï¼Œå¦ä¸€ä¸ªåˆ™ä¸ºå‡ã€‚
+
+å¯¹äºäºŒå…ƒå˜é‡ï¼Œå¸Œè…Šå­—æ¯(*Ï•*)å¯ä»¥ç”¨æ¥å¾ˆå¥½çš„è¡¨ç¤ºå…³è”åº¦é‡ï¼Œç›¸åº”åœ°å¾ˆå®¹æ˜“è®¡ç®—ã€‚ä¸ºäº†è®¡ç®—*Ï•*ï¼Œæˆ‘ä»¬éœ€è¦ä¸€ä¸ªè¡¨*n*,è¿™ä¸ªè¡¨ä¸­åŒ…å«æˆ‘ä»¬æ‰€æ¯”è¾ƒçš„ä¸¤ä¸ªå˜é‡ä¹‹é—´ä¸åŒå…³è”çš„æ¬¡æ•°ã€‚æˆ‘ä»¬å¯ä»¥ä»¥åƒæŠ«è¨è¿™ä»¶äº‹ä¸ºä¾‹ï¼Œå°†ä¹‹å†™å…¥è¡¨æ ¼å¦‚ä¸‹ï¼š
+
+![æŠ«è¨äº‹ä»¶è¡¨](Figure/chapter4/4_4.png)
+
+*Ï•*å¯ä»¥ä½¿ç”¨ä»¥ä¸‹å…¬å¼è®¡ç®—ï¼Œ*n*å¯ä»¥å‹è¡¨æ ¼å¾—çŸ¥ï¼š
+
+![ç›¸å…³æ€§å…¬å¼](Figure/chapter4/4_5.png)
+
+ æ ‡è®°*n<sub>01</sub>*æ˜¯æŒ‡ç¬¬ä¸€ä¸ªå˜é‡(å˜ä¸ºæ¾é¼ )ä¸ºå‡(0)ï¼Œç¬¬äºŒä¸ªå˜é‡(pizza)ä¸ºçœŸ(1)è¿™ç§æƒ…å†µçš„æ¬¡æ•°ã€‚åœ¨æœ¬ä¾‹ä¸­ï¼Œ*n<sub>01</sub>*ä¸º9ã€‚
+
+ å€¼*n<sub>1.</sub>*æ˜¯æŒ‡ç¬¬ä¸€ä¸ªå˜é‡ä¸ºçœŸè¿™ç§æƒ…å†µçš„æ€»æ¬¡æ•°ï¼Œåœ¨ä¸Šä¾‹çš„è¡¨æ ¼ä¸­å…±ä¸º5ã€‚åŒæ ·åœ°ï¼Œ*n<sub>.0</sub>*æ˜¯æŒ‡ç¬¬äºŒä¸ªå˜é‡ä¸ºå‡è¿™ç§æƒ…å†µçš„æ€»æ¬¡æ•°ã€‚
+
+ æ‰€ä»¥ï¼Œå‚ç…§æŠ«è¨äº‹ä»¶è¡¨æ ¼ï¼Œåˆ†å·ä¸Šé¢çš„éƒ¨åˆ†ä¸º`1*76 - 4*9 = 40`ï¼Œåˆ†å·ä¸‹é¢çš„éƒ¨åˆ†ä¸º5*85*10*80çš„å¹³æ–¹æ ¹ï¼Œå³ä¸º340000çš„å¹³æ–¹æ ¹ã€‚å¯ä»¥è®¡ç®—å¾—å‡ºï¼Œ*Ï• â‰ˆ 0.069*ï¼Œè¿™ä¸ªç›¸å…³ç³»æ•°æ˜¯å¾ˆå°çš„ã€‚æ‰€ä»¥åƒæŠ«è¨å¯ä»¥è®¤ä¸ºå¯¹è½¬å˜å¹¶æ— å½±å“ã€‚
+
+ ##ç›¸å…³æ€§è®¡ç®—
+
+åœ¨`Javascript`ä¸­ï¼Œæˆ‘ä»¬å¯ä»¥ä½¿ç”¨ä¸€ä¸ªå››ä¸ªå…ƒç´ çš„æ•°ç»„([76, 9, 4, 1])æ¥æè¿°ä¸€ä¸ª2è¡Œ2åˆ—çš„è¡¨æ ¼ã€‚å½“ç„¶ä¹Ÿå¯ä»¥ä½¿ç”¨å…¶ä»–æè¿°æ–¹å¼ï¼Œæ¯”å¦‚ä¸€ä¸ªåŒ…å«ä¸¤ä¸ªæ•°ç»„å…ƒç´ çš„æ•°ç»„æˆ–è€…ä¸€ä¸ªåŒ…å«å¦‚`11`å’Œ`01`å±æ€§åçš„å¯¹è±¡ã€‚ä¸è¿‡ä¸€ç»´æ•°ç»„æ¯”è¾ƒç®€å•ï¼Œå¹¶ä¸”å¯ä»¥å¾ˆæ–¹ä¾¿çš„è®¿é—®ä¸Šè¿°è¡¨è¾¾å¼ä¸­çš„å„å˜é‡ã€‚å¯ä»¥å°†ä¸Šè¿°è¡¨è¾¾å¼ä¸­çš„å„å˜é‡çœ‹ä½œä¸€ä¸ªä¸¤ä½çš„äºŒè¿›åˆ¶æ•°ï¼Œå·¦è¾¹ä¸€ä½è¡¨ç¤ºæ¾é¼ å˜é‡ï¼Œå³è¾¹ä¸€ä½è¡¨ç¤ºç›¸åº”çš„äº‹ä»¶å˜é‡ã€‚æ¯”å¦‚ï¼ŒäºŒè¿›åˆ¶æ•°`10`æ˜¯æŒ‡é›…å…‹å˜æˆæ¾é¼ ï¼Œä½†æ˜¯æ²¡æœ‰åƒæŠ«è¨è¿™ä¸€æƒ…å†µã€‚è¿™ä¸€æƒ…å†µå‘ç”Ÿäº†å››æ¬¡ã€‚äºŒè¿›åˆ¶æ•°`10`è½¬åŒ–ä¸ºåè¿›åˆ¶ä¸º`2`ï¼Œåˆ™å°†è¿™ä¸ªæ¬¡æ•°å­˜å…¥æ•°ç»„ä¸­ï¼Œç´¢å¼•ä¸º2ã€‚
+
+ä¸‹é¢æ˜¯ä¸€ä¸ªå‡½æ•°ï¼Œè¯¥å‡½æ•°å¯ä»¥ä»ä¸Šè¿°è¿™æ ·ä¸€ä¸ªæ•°ç»„ä¸­è®¡ç®—å‡ºç›¸å…³æ€§*Ï•*ï¼š
+
+	function phi(table) {
+	  return (table[3] * table[0] - table[2] * table[1]) /
+	    Math.sqrt((table[2] + table[3]) *
+	              (table[0] + table[1]) *
+	              (table[1] + table[3]) *
+	              (table[0] + table[2]));
+	}
+
+	console.log(phi([76, 9, 4, 1]));
+	// â†’ 0.068599434
+
+è¯¥ä¾‹å­å°†è®¡ç®—*Ï•*çš„å…¬å¼ç®€å•ç›´æ¥çš„è½¬åŒ–ä¸º`Javascript`ä¸­çš„å‡½æ•°ã€‚`Math.sqrt`æ˜¯`Javascript`æ ‡å‡†ç¯å¢ƒä¸­çš„`Math`å¯¹è±¡æä¾›çš„æ±‚å¹³æ–¹æ ¹çš„å‡½æ•°ã€‚å› ä¸ºæˆ‘ä»¬çš„æ•°æ®ç»“æ„ä¸­å¹¶æ²¡æœ‰ç›´æ¥å­˜å‚¨æ±‚å’Œçš„è¡Œä¸åˆ—ï¼Œæ‰€ä»¥å¿…é¡»å¯¹è¡¨æ ¼ä¸­çš„ä¸¤ä¸ªåŒºåŸŸæ±‚å’Œæ¥æ±‚å–*n<sub>1.</sub>*ã€‚
+
+é›…å…‹ä¿æŒè®°å½•æ—¥è®°ä¸‰ä¸ªæœˆå·¦å³ã€‚è¿™ä¸ªç»“æœæ•°æ®é›†åˆåœ¨ä¸‹è½½æ–‡ä»¶ä¸­çš„[æœ¬ç« ä»£ç ](code/jacques_journal.js)å†…çš„å¯ä»¥æ‰¾åˆ°ï¼Œä¿å­˜åœ¨`JOURNAL`å˜é‡ä¸­ã€‚
+
+ä»è¿™ä»½æ—¥è®°æ–‡ä»¶ä¸­æå–å‡ºæŸä¸ªç‰¹å®šäº‹ä»¶2è¡Œ2åˆ—çš„è¡¨æ ¼ï¼Œå¿…é¡»å¾ªç¯è¯»å–æ‰€æœ‰è®°å½•ï¼Œè®¡ç®—å‡ºä¸å˜èº«æ¾é¼ æœ‰å…³çš„äº‹ä»¶å‘ç”Ÿäº†å¤šå°‘æ¬¡ã€‚
+
+	function hasEvent(event, entry) {
+	  return entry.events.indexOf(event) != -1;
+	}
+
+	function tableFor(event, journal) {
+	  var table = [0, 0, 0, 0];
+	  for (var i = 0; i < journal.length; i++) {
+	    var entry = journal[i], index = 0;
+	    if (hasEvent(event, entry)) index += 1;
+	    if (entry.squirrel) index += 2;
+	    table[index] += 1;
+	  }
+	  return table;
+	}
+
+	console.log(tableFor("pizza", JOURNAL));
+	// â†’ [76, 9, 4, 1]
+
+`hasEvenet`å‡½æ•°æµ‹è¯•ä¸€æ¡è®°å½•ä¸­æ˜¯å¦åŒ…å«ç»™å®šçš„äº‹ä»¶ã€‚æ•°ç»„çš„`indexOf`æ–¹æ³•å°†åˆ¤æ–­ä¸€ä¸ªç»™å®šå€¼(åœ¨å½“å‰æƒ…å†µä¸‹ï¼Œè¿™ä¸ªç»™å®šå€¼ä¸ºäº‹ä»¶å)æ˜¯å¦å­˜åœ¨äºæ•°ç»„ä¸­ã€‚æ‰€ä»¥å¦‚æœ`indexOf`è¿”å›çš„ä¸ä¸º`-1`ï¼Œåˆ™è¯¥äº‹ä»¶å­˜åœ¨äºè¯¥æ¡è®°å½•ä¸­ã€‚
+
+`tableFor`å‡½æ•°ä¸­çš„å¾ªç¯ä½“é€šè¿‡åˆ¤æ–­æŒ‡å®šçš„äº‹ä»¶æ˜¯å¦å­˜åœ¨ä»¥åŠæ˜¯å¦æœ‰å˜æˆæ¾é¼ æ¥è®¡ç®—å…³ç³»è¡¨æ ¼ä¸­çš„å“ªä¸ªæ•°å€¼éœ€è¦å˜åŒ–ã€‚å¾ªç¯ä¸­å°†ç›¸åº”æ•°ç»„ä¸­éœ€è¦å˜åŒ–çš„æ•°å€¼åŠ 1ã€‚
+
+ç°åœ¨æˆ‘ä»¬æœ‰è®¡ç®—ç‹¬ç«‹ç›¸å…³æ€§çš„å·¥å…·äº†ã€‚è¿˜æœ‰ä¸€ä»¶è¦åšçš„äº‹æƒ…æ˜¯æ‰¾åˆ°è¢«è®°å½•çš„äº‹ä»¶ä¹‹é—´çš„ç›¸å…³æ€§ã€‚çœ‹çœ‹æ˜¯å¦æœ‰ä»»ä½•äº‹ä»¶æ¯”è¾ƒç‰¹åˆ«ã€‚ä½†æ˜¯æˆ‘ä»¬æ˜¯å¦ä¸€è®¡ç®—å‡ºè¿™äº›ç›¸å…³æ€§å°±å­˜å‚¨èµ·æ¥ï¼Ÿ
+
+##å¯¹è±¡æ˜ å°„
+
+ä¸€ä¸ªå¯è¡Œçš„æ–¹æ³•æ˜¯å°†æ¯ä¸ªäº‹ä»¶çš„å¯¹è±¡çš„åå’Œå€¼å­˜åœ¨å¯¹è±¡ä¸­ï¼Œå†å°†æ‰€æœ‰è¿™äº›å¯¹è±¡æ”¾å…¥ä¸€ä¸ªæ•°ç»„ã€‚ä½†æ˜¯è¿™æ ·å¤„ç†ä¼šä½¿å¾—æŸ¥æ‰¾ä¸€ä¸ªç»™å®šäº‹ä»¶çš„ç›¸å…³æ€§æˆ–å¤šæˆ–å°‘æœ‰äº›éº»çƒ¦ï¼šä½ å¿…é¡»ä¾¿åˆ©æ•´ä¸ªæ•°ç»„ï¼Œä»è€Œæ‰¾å‡ºåŒ…å«æŒ‡å®šäº‹ä»¶åçš„å¯¹è±¡ã€‚å½“ç„¶ï¼Œæˆ‘ä»¬å¯ä»¥å°†è¿™ä¸€æŸ¥æ‰¾è¿‡ç¨‹å†™å…¥å‡½æ•°ï¼Œä½†æ˜¯è¿™ä¹ˆåšä»ç„¶ä¼šéœ€è¦ä¹¦å†™æ›´å¤šçš„ä»£ç ï¼Œè®¡ç®—æœºä¹Ÿå°†ä¼šæ¯”å®é™…éœ€è¦åšå‡ºæ›´å¤šçš„è®¡ç®—ã€‚
+
+ä¸€ä¸ªæ›´å¥½çš„æ–¹æ³•æ˜¯å°†å„ç›¸å…³æ€§å­˜å…¥å¯¹è±¡ï¼Œç›¸åº”å±æ€§çš„åç§°ä¸ºå¯¹è±¡çš„äº‹ä»¶ç±»å‹ã€‚è¿™æ ·æˆ‘ä»¬å°±å¯ä»¥ä½¿ç”¨æ–¹æ‹¬å·æ¥åˆ›å»ºå’Œè¯»å–å±æ€§å€¼ï¼Œå¹¶ä¸”å¯ä»¥ä½¿ç”¨`in`æ“ä½œç¬¦æ¥æ£€æµ‹ç»™å®šçš„å±æ€§æ˜¯å¦å­˜åœ¨ã€‚
+
+	var map = {};
+	function storePhi(event, phi) {
+	  map[event] = phi;
+	}
+
+	storePhi("pizza", 0.069);
+	storePhi("touched tree", -0.081);
+	console.log("pizza" in map);
+	// â†’ true
+	console.log(map["touched tree"]);
+	// â†’ -0.081
+
+æ˜ å°„æ˜¯å°†ä¸€ä¸ªå˜åŒ–åŸŸå†…çš„å€¼æŒ‡(æœ¬ä¾‹ä¸­ä¸ºäº‹ä»¶å)å‘å¦ä¸€å˜åŒ–åŸŸå†…ç›¸åº”çš„å€¼(æœ¬ä¾‹ä¸­ä¸ºç›¸å…³æ€§*Ï•*)çš„æ–¹æ³•ã€‚
+
+åƒç°åœ¨è¿™æ ·ä½¿ç”¨å¯¹è±¡ä»ç„¶æœ‰ä¸€äº›æ½œåœ¨é—®é¢˜ï¼Œè¿™äº›é—®é¢˜æˆ‘ä»¬å°†åœ¨[ç¬¬å…­ç« ](/chapter6.md)ä¸­è®¨è®ºï¼Œæš‚æ—¶ä¸ç”¨æ‹…å¿ƒè¿™äº›é—®é¢˜ã€‚
+
+å€˜è‹¥æˆ‘ä»¬éœ€è¦è¯»å–å·²å­˜å‚¨çš„æ‰€æœ‰äº‹ä»¶çš„ç›¸å…³æ€§è¯¥å¦‚ä½•æ“ä½œï¼Ÿå¯¹è±¡ä¸­çš„è¿™äº›å±æ€§ä¸åƒæ˜¯æ•°ç»„ï¼Œæ²¡æœ‰ç‰¹å®šçš„é¡ºåºã€‚æ‰€ä»¥æˆ‘ä»¬å°±ä¸èƒ½å¤Ÿä½¿ç”¨ç®€å•çš„`for`å¾ªç¯æ¥å®ç°è¿™ä¸€æ“ä½œã€‚`Javascript`ä¸­æä¾›äº†ä¸“é—¨ç”¨æ¥éå†å¯¹è±¡å±æ€§çš„å¾ªç¯ç»“æ„ã€‚è¿™ä¸€å¾ªç¯ç»“æ„ä¸æ™®é€šçš„`for`ç›¸ä¼¼ï¼Œä¸è¿‡ä¸æ™®é€š`for`å¾ªç¯çš„åŒºåˆ«æ˜¯`in`ã€‚
+
+	for (var event in map)
+	  console.log("The correlation for '" + event +
+	              "' is " + map[event]);
+	// â†’ The correlation for 'pizza' is 0.069
+	// â†’ The correlation for 'touched tree' is -0.081
+
+##æœ€åçš„åˆ†æ
+
+ä¸ºäº†æ‰¾åˆ°æ•°æ®é›†åˆä¸­çš„æ‰€æœ‰äº‹ä»¶ç±»å‹ï¼Œæˆ‘ä»¬åªéœ€ç®€å•åœ°ä¾æ¬¡å¤„ç†å„æ¡è®°å½•ç„¶åéå†æ¯æ¡è®°å½•ä¸­çš„äº‹ä»¶ã€‚åˆ›å»ºä¸€ä¸ªå¯¹è±¡`phis`ï¼Œå°†è‡³ä»Šçš„æ‰€æœ‰äº‹ä»¶ç±»å‹çš„ç›¸å…³æ€§ç³»æ•°å­˜å‚¨å…¶ä¸­ã€‚åªè¦æŸç§äº‹ä»¶ç±»å‹ä¸åœ¨`phis`ä¸­ï¼Œåˆ™è®¡ç®—è¯¥äº‹ä»¶çš„ç›¸å…³æ€§å¹¶å°†å…¶å­˜å…¥`phis`ä¸­ã€‚
+
+	function gatherCorrelations(journal) {
+	  var phis = {};
+	  for (var entry = 0; entry < journal.length; entry++) {
+	    var events = journal[entry].events;
+	    for (var i = 0; i < events.length; i++) {
+	      var event = events[i];
+	      if (!(event in phis))
+	        phis[event] = phi(tableFor(event, journal));
+	    }
+	  }
+	  return phis;
+	}
+
+	var correlations = gatherCorrelations(JOURNAL);
+	console.log(correlations.pizza);
+	// â†’ 0.068599434
+
+ç„¶ä»¬ä¸€èµ·çœ‹çœ‹ç»“æœå¦‚ä½•ã€‚
+
+	for (var event in correlations)
+	  console.log(event + ": " + correlations[event]);
+	// â†’ carrot:   0.0140970969
+	// â†’ exercise: 0.0685994341
+	// â†’ weekend:  0.1371988681
+	// â†’ bread:   -0.0757554019
+	// â†’ pudding: -0.0648203724
+	// and so on...
+
+æœ€å¤šçš„ç›¸å…³æ€§éƒ½é›†ä¸­åœ¨0é™„è¿‘ã€‚åƒèƒ¡èåœï¼Œé¢åŒ…æˆ–å¸ƒä¸å¾ˆæ˜æ˜¾ä¸ä¼šè§¦å‘æ¾é¼ å˜èº«ã€‚å°½ç®¡è¿™äº›äº‹æƒ…åœ¨å‘¨æœ«éƒ½ç»å¸¸å‘ç”Ÿã€‚æ‰€ä»¥æˆ‘ä»¬è¿‡æ»¤ä¸€ä¸‹ç»“æœï¼Œåªç•™ä¸‹ç›¸å…³æ€§å¤§äº0.1æˆ–è€…å°äº-0.1çš„äº‹ä»¶ã€‚
+
+	for (var event in correlations) {
+	  var correlation = correlations[event];
+	  if (correlation > 0.1 || correlation < -0.1)
+	    console.log(event + ": " + correlation);
+	}
+	// â†’ weekend:        0.1371988681
+	// â†’ brushed teeth: -0.3805211953
+	// â†’ candy:          0.1296407447
+	// â†’ work:          -0.1371988681
+	// â†’ spaghetti:      0.2425356250
+	// â†’ reading:        0.1106828054
+	// â†’ peanuts:        0.5902679812
+
+çœ‹ï¼æœ‰ä¸¤ä¸ªäº‹ä»¶çš„ç›¸å…³æ€§æ˜æ˜¾æ¯”å…¶ä»–çš„äº‹ä»¶çš„ç›¸å…³æ€§è¦é«˜å¾ˆå¤šã€‚åƒåšæœä¸å˜èº«æ¾é¼ æœ‰ç€å¾ˆå¤§çš„æ­£ç›¸å…³æ€§ï¼Œåˆ·ç‰™åˆ™æœ‰ç€å¾ˆå¤§çš„è´Ÿç›¸å…³æ€§ã€‚
+
+æœ‰è¶£å§ã€‚æˆ‘ä»¬æ¥å°è¯•ä¸€äº›äº‹æƒ…ã€‚
+
+	for (var i = 0; i < JOURNAL.length; i++) {
+	  var entry = JOURNAL[i];
+	  if (hasEvent("peanuts", entry) &&
+	     !hasEvent("brushed teeth", entry))
+	    entry.events.push("peanut teeth");
+	}
+	console.log(phi(tableFor("peanut teeth", JOURNAL)));
+	// â†’ 1
+
+å¥½äº†ï¼Œè¿™å°±å¯¹äº†ã€‚å¦‚æœé›…å…‹åƒäº†åšæœå´æ²¡æœ‰åˆ·ç‰™ï¼Œåˆ™ä»–ä¼šå˜èº«æˆæ¾é¼ ã€‚å¦‚æœä»–ä¸æ˜¯è¿™æ ·ä¸€ä¸ªä¸çˆ±æŠ¤ç‰™é½¿å«ç”Ÿçš„æ‡’æ±‰çš„è¯ï¼Œä»–ä¹Ÿå°±ä¸ä¼šå—åˆ°å˜èº«çš„çƒ¦æ¼äº†ã€‚
+
+çŸ¥é“äº†è¿™ä¸ªä¹‹åï¼Œé›…å…‹åªè¦å®Œå…¨ä¸åƒåšæœï¼Œå°±èƒ½å¤Ÿå®Œå…¨æ‘†è„±å˜èº«çš„å›°æ‰°äº†ã€‚
+
+é›…å…‹å·²ç»å¥½äº†å¥½é•¿ä¸€æ®µæ—¶é—´ã€‚ä¸è¿‡åœ¨å‡ å¹´ä¹‹åï¼Œä»–ä¸¢æ‰äº†è‡ªå·±çš„å·¥ä½œï¼Œæœ€ç»ˆä¸å¾—ä¸åœ¨é©¬æˆå›¢å°±èŒï¼Œä»–çš„å·¥ä½œå°±æ˜¯æ¯æ¬¡è¡¨æ¼”ä¹‹å‰åœ¨å˜´å·´ä¸­å¡«æ»¡åšæœï¼Œå®Œæˆå˜èº«ï¼Œè¡¨æ¼”*ä¸å¯ç½®ä¿¡çš„æ¾é¼ äºº*ã€‚ä¸€å¤©ï¼Œå› ä¸ºå˜´å·´ä¸­æœ‰å¤ªå¤šåšæœè¿™é‡Œæ¼æ´å­˜åœ¨ï¼Œé›…å…‹æ²¡èƒ½å˜å›ä¸ºäººç±»ï¼Œä»é©¬æˆå›¢å¸ç¯·ä¸­çš„ç¼éš™ä¸­è·³èµ°ï¼Œæ¶ˆå¤±åœ¨äº†æ£®æ—ä¹‹ä¸­ï¼Œä¹‹åå°±å†ä¹Ÿæ²¡æœ‰å‡ºç°è¿‡ã€‚
+
+##æ·±åº¦å­¦ä¹ æ•°ç»„
+
+åœ¨æœ¬ç« ç»“æŸä¹‹å‰ï¼Œæˆ‘ä»¬è¦å†å¤šä»‹ç»ä¸€äº›ç›¸å…³æ¦‚å¿µã€‚é¦–å…ˆæˆ‘ä»¬å…ˆä»‹ç»ä¸€äº›å¸¸ç”¨çš„æ•°ç»„æ–¹æ³•ã€‚
+
+[æœ¬ç« ä¹‹å‰](chapter4.md#array_methods)æˆ‘ä»¬å­¦ä¹ äº†`push`å’Œ`pop`ï¼Œç”¨æ¥æ·»åŠ å’Œåˆ é™¤æ•°ç»„å°¾éƒ¨çš„å…ƒç´ ã€‚ç›¸å¯¹åº”çš„åœ¨æ•°ç»„é¦–éƒ¨æ·»åŠ å’Œåˆ é™¤å…ƒç´ çš„æ–¹æ³•ä¸º`unshift`å’Œ`shift`ã€‚
+
+	var todoList = [];
+	function rememberTo(task) {
+	  todoList.push(task);
+	}
+	function whatIsNext() {
+	  return todoList.shift();
+	}
+	function urgentlyRememberTo(task) {
+	  todoList.unshift(task);
+	}
+
+ä¸Šé¢çš„ä»£ç èƒ½å¤Ÿç®¡ç†ä»»åŠ¡åˆ—è¡¨ã€‚ä½ å¯ä»¥è°ƒç”¨`rememberTo("eat")`åœ¨åˆ—è¡¨çš„æœ€åæ·»åŠ ä»»åŠ¡.å¦‚æœéœ€è¦ä¸€äº›å…¶ä»–æ“ä½œï¼Œå¯ä»¥ä½¿ç”¨`whatIsNext()`æ¥è·å–(åˆ é™¤)åˆ—è¡¨æœ€å‰é¢çš„é¡¹ã€‚`urgentlyRememberTo`å¯ä»¥åœ¨åˆ—è¡¨çš„é¦–éƒ¨æ·»åŠ ä»»åŠ¡è€Œä¸æ˜¯åˆ—è¡¨çš„å°¾éƒ¨ã€‚
+
+`indexOf`è¿˜æœ‰ä¸€ä¸ªå…„å¼Ÿæ–¹æ³•`lastIndexOf`ã€‚`lastIndexOf`ä»æ•°ç»„çš„å°¾éƒ¨æŸ¥æ‰¾ç»™å®šå…ƒç´ ï¼Œè€Œ`indexOf`æ˜¯ä»å¤´å¼€å§‹ã€‚
+
+	console.log([1, 2, 3, 2, 1].indexOf(2));
+	// â†’ 1
+	console.log([1, 2, 3, 2, 1].lastIndexOf(2));
+	// â†’ 3
+
+`indexOf`å’Œ`lastIndexOf`éƒ½æœ‰ç¬¬äºŒä¸ªå¯é€‰å‚æ•°ï¼Œè¯¥å‚æ•°æŒ‡å®šå¼€å§‹æŸ¥æ‰¾çš„ä½ç½®ã€‚
+
+å¦ä¸€ä¸ªåŸºæœ¬æ–¹æ³•æ˜¯`slice`ã€‚è¯¥æ–¹æ³•ä¼ é€’ä¸€ä¸ªå¼€å§‹ç´¢å¼•å’Œç»“æŸç´¢å¼•ï¼Œç„¶åè¿”å›ä¸€ä¸ªæ•°ç»„ï¼Œè¯¥æ•°ç»„ä¸­åŸæ•°ç»„çš„ç‰‡æ®µ(ä»å¼€å§‹ç´¢å¼•åˆ°ç»“æŸç´¢å¼•)ã€‚åŒ…æ‹¬å¼€å§‹ç´¢å¼•å¯¹åº”çš„å…ƒç´ (ç¬¬ä¸€ä¸ªå‚æ•°)ï¼Œä½†æ˜¯ä¸åŒ…æ‹¬ç»“æŸç´¢å¼•å¯¹åº”çš„å…ƒç´ (ç¬¬äºŒä¸ªå‚æ•°)ã€‚
+
+	console.log([0, 1, 2, 3, 4].slice(2, 4));
+	// â†’ [2, 3]
+	console.log([0, 1, 2, 3, 4].slice(2));
+	// â†’ [2, 3, 4]
+
+å½“ç»“æŸç´¢å¼•æ²¡æœ‰æŒ‡å®šæ—¶ï¼Œ`slice`å°†è¿”å›ä»å¼€å§‹ç´¢å¼•å¼€å§‹çš„æ‰€æœ‰å…ƒç´ ã€‚å­—ç¬¦ä¸²ä¹Ÿæœ‰`slice`æ–¹æ³•ï¼Œä¸æ•°ç»„çš„`slice`æ–¹æ³•åŠŸèƒ½ç›¸ä¼¼ã€‚
+
+`concat`æ–¹æ³•å¯ä»¥ç”¨æ¥åˆå¹¶æ•°ç»„ï¼Œå°±æƒ³ä½¿ç”¨`+`æ“ä½œç¬¦æ¥æ‹¼æ¥å­—ç¬¦ä¸²ã€‚æ¥ä¸‹æ¥çš„ä¾‹å­ä¸­å¯ä»¥çœ‹åˆ°`concat`å’Œ`splice`çš„å®é™…åº”ç”¨ã€‚è¯¥ä¾‹å­ä¼ å…¥ä¸€ä¸ªæ•°ç»„å’Œç´¢å¼•ï¼Œè¿”å›ä¸€ä¸ªæ–°æ•°ç»„ï¼Œæ–°æ•°ç»„ä¸ºåŸæ•°ç»„çš„ä¸€ä¸ªæ‹·è´ï¼Œå¹¶ä¸”å°†æŒ‡å®šç´¢å¼•çš„å…ƒç´ åˆ é™¤ã€‚
+
+	function remove(array, index) {
+	  return array.slice(0, index)
+	    .concat(array.slice(index + 1));
+	}
+	console.log(remove(["a", "b", "c", "d", "e"], 2));
+	// â†’ ["a", "b", "d", "e"]
+
+##å­—ç¬¦ä¸²åŠå…¶å„å±æ€§
+
+æˆ‘ä»¬ä¹‹å‰å·²ç»å­¦ä¹ è¿‡å­—ç¬¦ä¸²çš„`length`å’Œ`toUpperCase`å±æ€§ã€‚å¦‚æœæƒ³è¦æ·»åŠ ä¸€ä¸ªæ–°å±æ€§ï¼Œå´å¹¶ä¸ä¸€å®šç”Ÿæ•ˆã€‚
+
+	var myString = "Fido";
+	myString.myProperty = "value";
+	console.log(myString.myProperty);
+	// â†’ undefined
+
+å­—ç¬¦ä¸²ã€æ•°å€¼å’Œå¸ƒå°”å‹çš„å€¼ä¸æ˜¯å¯¹è±¡ã€‚å¦‚æœè¯•å›¾ç»™è¿™äº›å€¼æ·»åŠ æ–°å±æ€§ï¼Œå°½ç®¡è¯­è¨€æœ¬èº«å¹¶ä¸ä¼šæœ‰ä»€ä¹ˆä¸æ»¡ï¼Œä½†æ˜¯è¿™äº›å±æ€§å¹¶æ²¡æœ‰è¢«å®é™…å­˜å‚¨ã€‚è¿™äº›å€¼æ˜¯ä¸ä¸å¯å˜çš„ã€‚
+
+ä¸è¿‡è¿™äº›ç±»å‹çš„å€¼æœ‰äº›å†…ç½®å±æ€§ã€‚å­—ç¬¦ä¸²å€¼æœ‰ä¸€ç³»åˆ—çš„æ–¹æ³•ã€‚æœ€æœ‰ç”¨çš„æ–¹æ³•å¯èƒ½å°±æ˜¯`slice`å’Œ`indexOf`ï¼Œè¿™ä¸¤ä¸ªæ–¹æ³•ä¸æ•°ç»„ä¸­çš„æ–¹æ³•åŒåã€‚
+
+	console.log("coconuts".slice(4, 7));
+	// â†’ nut
+	console.log("coconut".indexOf("u"));
+	// â†’ 5
+
+å­—ç¬¦ä¸²çš„`indexOf`æ–¹æ³•å’Œæ•°ç»„çš„`indexOf`æ–¹æ³•æœ‰ä¸€å®šçš„åŒºåˆ«ã€‚å­—ç¬¦ä¸²çš„`indexOf`æ–¹æ³•å¯ä»¥æŸ¥æ‰¾ä¸€ä¸ªå¤§äºä¸¤ä¸ªå­—ç¬¦çš„å­—ç¬¦ä¸²ï¼Œè€Œæ•°ç»„çš„`indexOf`æ–¹æ³•åªèƒ½æŸ¥æ‰¾ä¸€ä¸ªå•ç‹¬çš„å…ƒç´ ã€‚
+
+	console.log("one two three".indexOf("ee"));
+	// â†’ 11
+
+`trim`æ–¹æ³•å¯ä»¥ç§»é™¤å­—ç¬¦ä¸²é¦–å°¾çš„ç©ºç™½ç¬¦(ç©ºæ ¼ï¼Œæ¢è¡Œç¬¦ï¼Œåˆ¶è¡¨ç¬¦ç­‰)ã€‚
+
+	console.log("  okay \n ".trim());
+	// â†’ okay
+
+å·²ç»çŸ¥é“å­—ç¬¦ä¸²ç±»å‹çš„å€¼æœ‰`length`å±æ€§ã€‚å¯ä»¥ä½¿ç”¨`charAt`æ–¹æ³•è¯»å–å­—ç¬¦ä¸²ä¸­çš„ä¸€ä¸ªå•ç‹¬çš„å­—ç¬¦ï¼Œä¹Ÿå¯ä»¥åƒæ•°ç»„ä¸€æ ·ï¼Œç®€å•åœ°ä½¿ç”¨æ•°å­—ç´¢å¼•æ¥è¯»å–ã€‚
+
+	var string = "abc";
+	console.log(string.length);
+	// â†’ 3
+	console.log(string.charAt(0));
+	// â†’ a
+	console.log(string[1]);
+	// â†’ b
+
+##å‚æ•°å¯¹è±¡`arguments`
+
+å½“ä¸€ä¸ªå‡½æ•°è¢«è°ƒç”¨æ—¶ï¼Œè¿è¡Œçš„å‡½æ•°ä½“å†…æœ‰ä¸€ä¸ªç‰¹åˆ«çš„å˜é‡`arguments`ã€‚è¿™ä¸ªå˜é‡æŒ‡å‘ä¸€ä¸ªå¯¹è±¡ã€‚è¯¥å¯¹è±¡åŒ…å«å­˜å…¥å‡½æ•°çš„æ‰€æœ‰å‚æ•°ã€‚åœ¨`Javascript`ä¸­å¯ä»¥ä¼ é€’æ¯”å£°æ˜æ—¶çš„å‚æ•°æ›´å¤šçš„å‚æ•°ã€‚
+
+	function noArguments() {}
+	noArguments(1, 2, 3); // This is okay
+	function threeArguments(a, b, c) {}
+	threeArguments(); // And so is this
+
+`arguments`å¯¹è±¡ä¸­çš„`length`ä»£è¡¨ä¼ å…¥å‡½æ•°çš„å‚æ•°ä¸ªæ•°ã€‚æ¯ä¸ªå‚æ•°éƒ½å¯¹åº”ç€å¯¹è±¡ä¸­çš„ä¸€ä¸ªå±æ€§ï¼Œå¦‚0ï¼Œ1,2ã€‚
+
+å¦‚æœä½ è§‰å¾—è¿™å¬èµ·æ¥åƒæ˜¯æ•°ç»„ï¼Œé‚£å°±å¯¹äº†ï¼Œå®ƒæ˜¯ä¸€ä¸ªç±»æ•°ç»„ã€‚ä¸è¿‡ä¸å¹¸åœ°æ˜¯ï¼Œè¯¥å¯¹è±¡å¹¶æ²¡æœ‰å“åº”æ•°ç»„çš„æ–¹æ³•(æ¯”å¦‚`slice`æˆ–`indexOf`)ï¼Œæ‰€ä»¥å¾ˆéš¾å½“ä½œä¸€ä¸ªçœŸå®æ•°ç»„æ¥ç”¨ã€‚
+
+	function argumentCounter() {
+	  console.log("You gave me", arguments.length, "arguments.");
+	}
+	argumentCounter("Straw man", "Tautology", "Ad hominem");
+	// â†’ You gave me 3 arguments.
+
+æœ‰äº›å‡½æ•°å¯ä»¥ä¼ å…¥ä»»æ„ä¸ªå‚æ•°ï¼Œæ¯”å¦‚`console.log`ã€‚è¿™äº›å‡½æ•°å°±æ˜¯å…¸å‹çš„éå†å†…éƒ¨`arguments`å¯¹è±¡çš„å€¼ã€‚`arguments`å¯¹è±¡å¯ä»¥ç”¨æ¥åˆ›å»ºä¸€äº›å¾ˆæœ‰ç”¨çš„æ¥å£ã€‚ä¾‹å¦‚ï¼Œè¿˜è®°å¾—æˆ‘ä»¬å¦‚ä½•åˆ›å»ºé›…å…‹æ—¥å¿—ä¸­çš„å„æ¡è®°å½•å§ã€‚
+
+	addEntry(["work", "touched tree", "pizza", "running",
+	          "television"], false);
+
+ä¸€æ—¦éœ€è¦ç»å¸¸è°ƒç”¨è¯¥å‚æ•°ï¼Œæˆ‘ä»¬å¯ä»¥åˆ›å»ºä¸€ä¸ªæ›´åŠ æ˜“ç”¨çš„å‡½æ•°ã€‚
+
+	function addEntry(squirrel) {
+	  var entry = {events: [], squirrel: squirrel};
+	  for (var i = 1; i < arguments.length; i++)
+	    entry.events.push(arguments[i]);
+	  journal.push(entry);
+	}
+	addEntry(true, "work", "touched tree", "pizza",
+	         "running", "television");
+
+è¿™ç§æ–¹æ³•ä½¿ç”¨æ­£å¸¸çš„æ–¹æ³•æ¥è¯»å–ç¬¬ä¸€ä¸ªå‚æ•°(`squirrel`)ï¼Œç„¶åéå†åœ°å°†`arguments`å¯¹è±¡ä¸­å…¶ä»–å‚æ•°(ä»ç´¢å¼•1å¼€å§‹éå†ï¼Œè·³è¿‡ç¬¬ä¸€ä¸ªå‚æ•°)éƒ½æ”¾å…¥ä¸€ä¸ªæ•°ç»„ä¸­ã€‚
+
+##`Math`å¯¹è±¡
+
+æ­£å¦‚æˆ‘ä»¬æ‰€çŸ¥ï¼Œ`Math`å¯¹è±¡æ˜¯æ•°å­—ç›¸å…³çš„ä½¿ç”¨å‡½æ•°çš„é›†åˆã€‚æ¯”å¦‚`Math.max`(æ±‚æœ€å¤§å€¼)ï¼Œ`Math.min`(æ±‚æœ€å°å€¼)ï¼Œä»¥åŠ`Math.sqrt`(æ±‚å¹³æ–¹æ ¹)ã€‚
+
+`Math`å¯¹è±¡åªæ˜¯ç®€å•çš„ç”¨åšä¸€ä¸ªå®¹å™¨ï¼Œæ¥å­˜å‚¨ä¸€å †ç›¸å…³åŠŸèƒ½ã€‚åªæœ‰ä¸€ä¸ª`Maht`å¯¹è±¡ï¼Œå®ƒå‡ ä¹ä»ä¸ä¼šç”¨åšä¸€ä¸ªå•ç‹¬çš„å€¼ã€‚åè€Œï¼Œå®ƒæä¾›ä¸€ä¸ª*å‘½åç©ºé—´*ï¼Œç”¨æ¥å®šä¹‰ä¸€äº›ä¸éœ€è¦å®šä¹‰ä¸ºå…¨å±€çš„å‡½æ•°å’Œå€¼ã€‚
+
+å¦‚æœæœ‰å¤ªå¤šçš„å…¨å±€å˜é‡åˆ™ä¼šæ±¡æŸ“å‘½åç©ºé—´ã€‚è¶Šå¤šçš„å…¨å±€å˜é‡ï¼Œåˆ™è¶Šå¯èƒ½å‘ç”Ÿå†²çªï¼Œå¯¼è‡´æ„å¤–åœ°ä¿®æ”¹æŸäº›å˜é‡çš„å€¼ã€‚æ¯”å¦‚ï¼Œå¦‚æœä½ æƒ³è¦åœ¨è‡ªå·±çš„æŸä¸ªç¨‹åºä¸­å®šä¹‰`max`å°±ä¸æ˜¯ä¸å¯èƒ½ã€‚å› ä¸º`Javascript`çš„å†…ç½®`max`å‡½æ•°å®‰å…¨åœ°å®šä¹‰åœ¨`Math`å¯¹è±¡ä¸­ï¼Œä¸éœ€è¦æ‹…å¿ƒä¼šè¢«é‡å†™ã€‚
+
+åœ¨ä½ å®šä¹‰ä¸€ä¸ªå˜é‡ï¼Œå¹¶ä¸”è¯¥å˜é‡åå·²ç»è¢«ä½¿ç”¨ï¼Œè®¸å¤šè¯­è¨€ä¼šé˜»æ­¢ä½ ï¼Œæˆ–è€…è‡³å°‘ä¼šç»™å‡ºè­¦å‘Šã€‚`Javascript`å¹¶æ²¡æœ‰è¿™æ ·åšï¼Œæ‰€ä»¥ä½ è¦å½“å¿ƒã€‚
+
+è¯´å›`Math`å¯¹è±¡ã€‚å¦‚æœä½ éœ€è¦è®¡ç®—ä¸‰è§’å‡½æ•°ï¼Œ`Math`å¯¹è±¡å¯ä»¥æä¾›å¸®åŠ©ã€‚`Math`å¯¹è±¡åŒ…å«`cos`(ä½™å¼¦)ï¼Œ`sin`(æ­£å¼¦)ï¼Œ`tan`(æ­£åˆ‡)ï¼Œä»¥åŠå®ƒä»¬å„è‡ªçš„åå‡½æ•°ï¼Œ`acos`ï¼Œ`asin`ï¼Œ`atan`ã€‚
+
+æ•°å€¼*Ï€*(pi)å¯ä»¥é€šè¿‡`Math.PI`è·å–åˆ°â€”â€”è¯¥å€¼è‡³å°‘ä¸`Javascript`ä¸­çš„æä¾›çš„å€¼æä¸ºæ¥è¿‘ã€‚(è¿™æ ·å‘½åå¸¸é‡å€¼åœ¨æ‰€æœ‰è®¡ç®—æœºç³»ç»Ÿä¸­æ˜¯ä¸€ä¸ªå¤è€çš„ä¼ ç»Ÿ)ã€‚
+
+	function randomPointOnCircle(radius) {
+	  var angle = Math.random() * 2 * Math.PI;
+	  return {x: radius * Math.cos(angle),
+	          y: radius * Math.sin(angle)};
+	}
+	console.log(randomPointOnCircle(2));
+	// â†’ {x: 0.3667, y: 1.966}
+
+å¦‚æœä½ ä¸ç†Ÿæ‚‰æ­£å¼¦å’Œä½™å¼¦ï¼Œåˆ«æ‹…å¿ƒã€‚æœ¬ä¹¦[ç¬¬åä¸‰ç« ](chapter13.md#sin_cos)ä¼šè®²è¿°å¦‚ä½•ä½¿ç”¨ã€‚
+
+ä¸Šä¾‹ä¸­ä½¿ç”¨åˆ°äº†`Math.random`ã€‚è°ƒç”¨è¿™ä¸€å‡½æ•°å°†ä¼šè¿”å›[0,1)ä¹‹é—´çš„ä¼ªéšæœºæ•°ã€‚
+
+	console.log(Math.random());
+	// â†’ 0.36993729369714856
+	console.log(Math.random());
+	// â†’ 0.727367032552138
+	console.log(Math.random());
+	// â†’ 0.40180766698904335
+
+å°½ç®¡è®¡ç®—æœºæ˜¯ç¡®å®šå‹æœºå™¨â€”â€”åªè¦ä½ ç»™å‡ºæ­£ç¡®çš„è¾“å…¥ï¼Œè®¡ç®—æœºå°†æ‰§è¡Œç›¸åŒçš„è¿‡ç¨‹â€”â€”ä½†æ˜¯è®¡ç®—æœºä¹Ÿæ˜¯å¯ä»¥äº§ç”Ÿéšæœºæ•°çš„ã€‚ä¸ºäº†åšåˆ°è¿™ä¸€ç‚¹ï¼Œè®¡ç®—æœºåœ¨å†…å­˜ä¸­ä¿å­˜ä¸€ä¸ªæ•°å€¼(æˆ–è€…ä¸€å †æ•°å­—)ã€‚æ¯å½“éœ€è¦äº§ç”Ÿä¸€ä¸ªéšæœºæ•°æ—¶ï¼Œå®ƒåœ¨å†…å­˜ä¸­æ‰§è¡Œä¸€äº›å¤æ‚çš„ç¡®å®šæ€§è®¡ç®—ï¼Œå¹¶ä¸”è¿”å›è¿™äº›è®¡ç®—ç»“æœçš„éƒ¨åˆ†å€¼ã€‚è®¡ç®—æœºåœ¨ç”¨è¿™ä¸ªç»“æœæ¥æ”¹å˜å®ƒä¹‹å‰å­˜æœ‰çš„å†…éƒ¨å€¼ï¼Œä»è€Œä¸‹ä¸€ä¸ªéšæœºæ•°çš„äº§ç”Ÿå°†ä¼šå˜å¾—ä¸åŒã€‚
+
+å¦‚æœæˆ‘ä»¬æƒ³è¦å¾—åˆ°ä¸€ä¸ªçœŸæ­£çš„éšæœºæ•°è€Œä¸æ˜¯ä¼ªéšæœºæ•°ï¼Œæˆ‘ä»¬å¯ä»¥åœ¨`Math.random`çš„è®¡ç®—ç»“æœä¸Šä½¿ç”¨`Math.floor`(è¯¥æ–¹æ³•ä¼šå°†éæ•´æ•°ç›´æ¥å–æ•´ï¼Œçœç•¥æ‰å°æ•°éƒ¨åˆ†)ã€‚
+
+	console.log(Math.floor(Math.random() * 10));
+	// â†’ 2
+
+è®²ä¸€ä¸ªéšæœºæ•°ä¹˜ä»¥10ï¼Œæˆ‘ä»¬ä¼šå¾—åˆ°ä¸€ä¸ªå¤§äºç­‰äº0ï¼Œå°äº10çš„æ•°ã€‚å› ä¸º`Math.floor`å‘ä¸‹æ±‚æ•´ï¼Œè¯¥è¡¨è¾¾å¼å°†ä¼šç­‰æ¦‚ç‡çš„å¾—å‡º0åˆ°9ä¹‹é—´çš„ä»»ä¸€æ•°å­—ã€‚
+
+`Math`å¯¹è±¡è¿˜æœ‰å‡½æ•°`Math.ceil`("ceiling"çš„ç¼©å†™ï¼Œè¡¨ç¤ºå‘ä¸Šæ±‚æ•´)å’Œ`Math.round`(å°±è¿‘æ±‚æ•´)ã€‚
+
+##æœ¬ç« å°ç»“
+
+å¯¹è±¡å’Œæ•°ç»„(æ•°ç»„ä¹Ÿæ˜¯å¯¹è±¡çš„ä¸€ç§ç‰¹ä¾‹)æä¾›äº†å°†ä¸€ç»„å€¼æ•´åˆä¸ºä¸€ä¸ªå€¼çš„æ–¹æ³•ã€‚å•çº¯ä»æ¦‚å¿µä¸Šæ¥ç†è§£ï¼Œè¿™æ ·å¯ä»¥å…è®¸æˆ‘ä»¬å°†ä¸€ç³»åˆ—ç›¸å…³çš„äº‹æƒ…æ”¾åœ¨ä¸€ä¸ªè¢‹å­ä¸­ï¼Œç„¶åå›´ç»•è¿™ä¸ªè¢‹å­åšå¤„ç†ï¼Œè€Œä¸éœ€è¦æŒæ¡æ¯ä¸€ä¸ªå•ç‹¬çš„äº‹æƒ…ã€‚
+
+`Javascript`ä¸­å¤§éƒ¨åˆ†çš„å€¼å­˜åœ¨å±æ€§ï¼Œé™¤äº†`null`å’Œ`undefined`ä¹‹å¤–ã€‚å±æ€§å€¼å¯ä»¥é€šè¿‡`value.propName`æˆ–è€…`value["propName"]`æ¥è®¿é—®ã€‚å¯¹è±¡å€¾å‘äºä½¿ç”¨å®šä¹‰å±æ€§ï¼Œæ¥å­˜å‚¨ä¸€äº›åˆ—å›ºå®šçš„å¯å¤šå¯å°‘çš„å±æ€§å€¼ã€‚å¦ä¸€æ–¹é¢ï¼Œæ•°ç»„é€šå¸¸åŒ…å«ä¸åŒçš„æ•°å­—ç¼–å·(ä»0å¼€å§‹)ï¼Œå¹¶å°†å…¶ä½œä¸ºå±æ€§åã€‚
+
+æ•°ç»„ä¸­æœ‰ä¸€äº›å·²ç»å‘½åå¥½çš„å±æ€§ï¼Œæ¯”å¦‚`length`å’Œä¸€ç³»åˆ—çš„æ–¹æ³•ã€‚æ–¹æ³•å³ä¸ºå‡½æ•°ï¼Œé€šå¸¸å­˜å‚¨åœ¨å±æ€§çš„å±æ€§å€¼ä¸­ã€‚
+
+å¯¹è±¡ä¹Ÿå¯ä»¥çœ‹ä½œæ˜¯æ˜ å°„ï¼Œå°†åå­—ä¸å€¼è¿æ¥åœ¨ä¸€èµ·ã€‚`in`æ“ä½œç¬¦èƒ½å¤Ÿåˆ¤æ–­å¯¹è±¡ä¸­æ˜¯å¦ç»™å®šåå­—çš„å±æ€§ã€‚ä¹Ÿå¯ä»¥ç”¨åœ¨`for`å¾ªç¯(`for (var name in object)`)ä¸­éå†å¯¹è±¡çš„æ‰€æœ‰å±æ€§.
+
+##ç»ƒä¹ 
+
+###è¿ç»­æ•°å­—æ±‚å’Œ
+
+æœ¬ä¹¦çš„[å¼•è¨€](README.md)æ›¾ä¹‹åˆ
